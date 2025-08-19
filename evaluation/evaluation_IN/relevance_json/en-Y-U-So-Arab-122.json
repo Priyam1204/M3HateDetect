@@ -1,0 +1,42 @@
+{
+  "ImageID": "en-Y-U-So-Arab-122",
+  "CategoryRelevance": {
+    "CoreCulturalUnderstanding": 25.0,
+    "SensitivityModeration": 25.0,
+    "RegionalLinguisticAdaptation": 15.0,
+    "HumorViralDynamics": 20.0,
+    "AdvancedInsightEmpathy": 15.0
+  },
+  "SubpromptRelevance": {
+    "CoreCulturalUnderstanding": {
+      "general": 8.0,
+      "india": 6.0,
+      "china": 4.0,
+      "regionalInterpretation": 5.0,
+      "humorType": 2.0
+    },
+    "SensitivityModeration": {
+      "tabooDetection": 7.0,
+      "censorshipPrediction": 6.0,
+      "moderationThreshold": 6.0,
+      "communitySentiment": 6.0
+    },
+    "RegionalLinguisticAdaptation": {
+      "iconography": 5.0,
+      "dialectRendering": 3.0,
+      "formatAppropriateness": 4.0,
+      "localizationSuggestion": 3.0
+    },
+    "HumorViralDynamics": {
+      "politicalAlignment": 5.0,
+      "formatFit": 6.0,
+      "emotionalImpact": 4.0,
+      "crossCulturalRisk": 5.0
+    },
+    "AdvancedInsightEmpathy": {
+      "audienceAppropriateness": 6.0,
+      "biasMitigation": 5.0,
+      "politicalAlignmentAdvanced": 4.0
+    }
+  }
+}

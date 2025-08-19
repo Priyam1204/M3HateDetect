@@ -1,0 +1,42 @@
+{
+  "ImageID": "en-Condescending-Christian-120",
+  "CategoryRelevance": {
+    "CoreCulturalUnderstanding": 25.0,
+    "SensitivityModeration": 30.0,
+    "RegionalLinguisticAdaptation": 15.0,
+    "HumorViralDynamics": 20.0,
+    "AdvancedInsightEmpathy": 10.0
+  },
+  "SubpromptRelevance": {
+    "CoreCulturalUnderstanding": {
+      "general": 10.0,
+      "india": 5.0,
+      "china": 5.0,
+      "regionalInterpretation": 3.0,
+      "humorType": 2.0
+    },
+    "SensitivityModeration": {
+      "tabooDetection": 10.0,
+      "censorshipPrediction": 10.0,
+      "moderationThreshold": 5.0,
+      "communitySentiment": 5.0
+    },
+    "RegionalLinguisticAdaptation": {
+      "iconography": 5.0,
+      "dialectRendering": 4.0,
+      "formatAppropriateness": 3.0,
+      "localizationSuggestion": 3.0
+    },
+    "HumorViralDynamics": {
+      "politicalAlignment": 6.0,
+      "formatFit": 5.0,
+      "emotionalImpact": 5.0,
+      "crossCulturalRisk": 4.0
+    },
+    "AdvancedInsightEmpathy": {
+      "audienceAppropriateness": 5.0,
+      "biasMitigation": 3.0,
+      "politicalAlignmentAdvanced": 2.0
+    }
+  }
+}

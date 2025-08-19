@@ -1,0 +1,42 @@
+{
+  "ImageID": "overall_mean",
+  "CategoryRelevance": {
+    "CoreCulturalUnderstanding": 20.147058823529413,
+    "SensitivityModeration": 30.0,
+    "RegionalLinguisticAdaptation": 10.147058823529411,
+    "HumorViralDynamics": 24.852941176470587,
+    "AdvancedInsightEmpathy": 14.852941176470589
+  },
+  "SubpromptRelevance": {
+    "CoreCulturalUnderstanding": {
+      "general": 10.0,
+      "india": 5.0,
+      "china": 3.0588235294117645,
+      "regionalInterpretation": 1.0588235294117647,
+      "humorType": 1.0294117647058822
+    },
+    "SensitivityModeration": {
+      "tabooDetection": 10.0,
+      "censorshipPrediction": 10.0,
+      "moderationThreshold": 5.0,
+      "communitySentiment": 5.0
+    },
+    "RegionalLinguisticAdaptation": {
+      "iconography": 4.029411764705882,
+      "dialectRendering": 3.0294117647058822,
+      "formatAppropriateness": 2.0294117647058822,
+      "localizationSuggestion": 1.0588235294117647
+    },
+    "HumorViralDynamics": {
+      "politicalAlignment": 9.882352941176471,
+      "formatFit": 5.0,
+      "emotionalImpact": 5.0,
+      "crossCulturalRisk": 4.970588235294118
+    },
+    "AdvancedInsightEmpathy": {
+      "audienceAppropriateness": 9.852941176470589,
+      "biasMitigation": 3.0,
+      "politicalAlignmentAdvanced": 2.0
+    }
+  }
+}

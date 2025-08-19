@@ -1,0 +1,84 @@
+prompts:
+  CoreCulturalUnderstanding:
+    general:
+      template: CoreCulturalUnderstanding/general.jinja2
+      defaults:
+        country: null
+    india:
+      template: CoreCulturalUnderstanding/india.jinja2
+      defaults: {}
+    china:
+      template: CoreCulturalUnderstanding/china.jinja2
+      defaults: {}
+    regionalInterpretation:
+      template: CoreCulturalUnderstanding/regionalInterpretation.jinja2
+      defaults:
+        country: null
+    humorType:
+      template: CoreCulturalUnderstanding/humorType.jinja2
+      defaults: {}
+
+  SensitivityModeration:
+    tabooDetection:
+      template: SensitivityModeration/tabooDetection.jinja2
+      defaults:
+        country: null
+    censorshipPrediction:
+      template: SensitivityModeration/censorshipPrediction.jinja2
+      defaults:
+        country: null
+    moderationThreshold:
+      template: SensitivityModeration/moderationThreshold.jinja2
+      defaults:
+        country: null
+    communitySentiment:
+      template: SensitivityModeration/communitySentiment.jinja2
+      defaults:
+        country: null
+
+  RegionalLinguisticAdaptation:
+    iconography:
+      template: RegionalLinguisticAdaptation/iconography.jinja2
+      defaults: {}
+    dialectRendering:
+      template: RegionalLinguisticAdaptation/dialectRendering.jinja2
+      defaults:
+        dialect: null
+    formatAppropriateness:
+      template: RegionalLinguisticAdaptation/formatAppropriateness.jinja2
+      defaults:
+        country: null
+    localizationSuggestion:
+      template: RegionalLinguisticAdaptation/localizationSuggestion.jinja2
+      defaults:
+        country: null
+
+  HumorViralDynamics:
+    politicalAlignment:
+      template: HumorViralDynamics/politicalAlignment.jinja2
+      defaults:
+        country: null
+    formatFit:
+      template: HumorViralDynamics/formatFit.jinja2
+      defaults:
+        country: null
+    emotionalImpact:
+      template: HumorViralDynamics/emotionalImpact.jinja2
+      defaults: {}
+    crossCulturalRisk:
+      template: HumorViralDynamics/crossCulturalRisk.jinja2
+      defaults:
+        country: null
+
+  AdvancedInsightEmpathy:
+    audienceAppropriateness:
+      template: AdvancedInsightEmpathy/audienceAppropriateness.jinja2
+      defaults: {}
+    biasMitigation:
+      template: AdvancedInsightEmpathy/biasMitigation.jinja2
+      defaults:
+        persona: null
+    politicalAlignmentAdvanced:
+      template: AdvancedInsightEmpathy/politicalAlignment.jinja2
+      defaults:
+        country: null
