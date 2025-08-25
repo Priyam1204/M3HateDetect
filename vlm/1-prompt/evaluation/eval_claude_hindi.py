@@ -13,21 +13,21 @@ import seaborn as sns
 from sklearn.metrics import confusion_matrix
 
 current_script_dir = os.path.dirname(os.path.abspath(__file__))
-two_dirs_up = os.path.abspath(os.path.join(current_script_dir, '..', '..'))
-sys.path.append(two_dirs_up)
-from vlm.inference.local_paths import ANNOTATION_PATH
+one_dir_up = os.path.abspath(os.path.join(current_script_dir, '..'))
+sys.path.append(one_dir_up)
+from inference.local_paths import ANNOTATION_PATH
 
 np.seterr(divide='ignore', invalid='ignore')
 tqdm.pandas()
 
-# Only Hindi language for Claude 3.7 evaluation
+# Getting only Hindi language 
 LANGUAGES = ["hi"]
 MAPPING = {
     "hi": "IN"  # Hindi maps to India (IN)
 }
 
 def extract_llm_answer(response):
-    """Extract the core response from Claude 3.7 output"""
+    """Extract the core response from LLM output"""
     response = response.lower()
     prefixes = [
         "assistant: ", "assistant:", "assistant\n", "assistant", 
@@ -40,7 +40,7 @@ def extract_llm_answer(response):
     return response.strip()
 
 def extract_answer(response):
-    """Extract 'a' or 'b' from Claude 3.7 response - improved version"""
+    """Extract 'a' or 'b' from LLM response"""
     response = extract_llm_answer(response)
     response = response.lower().strip()
 
@@ -50,7 +50,7 @@ def extract_answer(response):
     if "answer: b" in response or "b:" in response or response.endswith("b"):
         return "b"
     
-    # Look for single letter responses
+    #for single letter responses
     if response == "a" or response == "b":
         return response
     
@@ -68,7 +68,7 @@ def extract_answer(response):
     return first_part
 
 def mapping_response(response):
-    """Map Claude 3.7 response to 0 (chose a) or 1 (chose b) or -1 (invalid)"""
+    """Map LLM response to 0 (chose a) or 1 (chose b) or -1 (invalid)"""
     extracted = extract_answer(response)
     
     if extracted == "a":
@@ -76,16 +76,16 @@ def mapping_response(response):
     elif extracted == "b":
         return 1  # Chose 'b'
     else:
-        print(f"Invalid Claude 3.7 response: ---{response[:200]}--- \n Extracted: ----{extracted}----")
+        print(f"Invalid LLM response: ---{response[:200]}--- \n Extracted: ----{extracted}----")
         return -1  # Invalid response
 
 def process_response_to_hatespeech(row):
-    """Convert Claude 3.7 response to hate speech prediction"""
+    """Convert LLM response to hate speech prediction"""
     # Invalid response
     if row['processed_answer'] == -1:
         return -1
 
-    # For your Claude 3.7 script, you used:
+    # For your LLM script, you used:
     # a: Hate, b: Non-hate
     # So 'a' = hate (1), 'b' = non-hate (0)
     
@@ -138,9 +138,9 @@ def calc_acc_multiple_prompts(df, gt_name, predict_name):
     return mean_accuracy, std_accuracy, df_acc
 
 def detailed_analysis(df):
-    """Provide detailed analysis of Claude 3.7 results"""
+    """Provide detailed analysis of LLM results"""
     print("\n" + "="*50)
-    print("DETAILED CLAUDE 3.7 ANALYSIS")
+    print("DETAILED LLM ANALYSIS")
     print("="*50)
     
     # Total responses
@@ -191,7 +191,7 @@ def detailed_analysis(df):
             print("No ground truth available for detailed metrics")
 
 def plot_confusion_matrix(df, output_folder):
-    """Plot and save confusion matrix for Claude 3.7 results with better colors"""
+    """Plot and save confusion matrix for LLM results with better colors"""
     print(f"DEBUG: plot_confusion_matrix called with output_folder: {output_folder}")
     print(f"DEBUG: DataFrame shape: {df.shape}")
     
@@ -216,7 +216,7 @@ def plot_confusion_matrix(df, output_folder):
     print(f"DEBUG: y_true shape: {y_true.shape}, unique values: {np.unique(y_true)}")
     print(f"DEBUG: y_pred shape: {y_pred.shape}, unique values: {np.unique(y_pred)}")
     
-    # Create confusion matrix
+    #confusion matrix
     cm = confusion_matrix(y_true, y_pred)
     print(f"DEBUG: Confusion matrix shape: {cm.shape}")
     print(f"DEBUG: Confusion matrix:\n{cm}")
@@ -224,7 +224,7 @@ def plot_confusion_matrix(df, output_folder):
     # Create the plot with better colors for presentations
     plt.figure(figsize=(10, 8), facecolor='white')
     
-    # Option 1: Professional blue-red colormap
+    #Professional blue-red colormap
     sns.heatmap(cm, annot=True, fmt='d', 
                 cmap='RdYlBu_r',  # Red-Yellow-Blue reversed (red for high values)
                 xticklabels=['Non-Hate', 'Hate'],
@@ -233,7 +233,7 @@ def plot_confusion_matrix(df, output_folder):
                 annot_kws={'size': 16, 'weight': 'bold'},
                 linewidths=2, linecolor='white')
     
-    plt.title('Confusion Matrix - Claude 3.7 Hindi Hate Speech Detection', 
+    plt.title('Confusion Matrix - LLM Hindi Hate Speech Detection', 
               fontsize=16, fontweight='bold', pad=20)
     plt.xlabel('Predicted Label', fontsize=14, fontweight='bold')
     plt.ylabel('True Label', fontsize=14, fontweight='bold')
@@ -272,7 +272,7 @@ def plot_confusion_matrix(df, output_folder):
         
         plt.figure(figsize=(10, 8), facecolor='white')
         
-        # Option 2: Professional green colormap for normalized matrix
+        #Professional green colormap for normalized matrix
         sns.heatmap(cm_normalized, annot=True, fmt='.1%', 
                     cmap='Greens',  # Green colormap
                     xticklabels=['Non-Hate', 'Hate'],
@@ -282,7 +282,7 @@ def plot_confusion_matrix(df, output_folder):
                     linewidths=2, linecolor='white',
                     vmin=0, vmax=1)
         
-        plt.title('Normalized Confusion Matrix - Claude 3.7 Hindi Hate Speech Detection', 
+        plt.title('Normalized Confusion Matrix - LLM Hindi Hate Speech Detection', 
                   fontsize=16, fontweight='bold', pad=20)
         plt.xlabel('Predicted Label', fontsize=14, fontweight='bold')
         plt.ylabel('True Label', fontsize=14, fontweight='bold')
@@ -310,7 +310,7 @@ def plot_confusion_matrix(df, output_folder):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-        description='Evaluate Claude 3.7 results on Hindi hate speech detection.')
+        description='Evaluate LLM results on Hindi hate speech detection.')
 
     parser.add_argument('--model_predictions', type=str, required=False,
                         default='vlm/results/claude_3_7')
@@ -324,7 +324,7 @@ if __name__ == '__main__':
     df_gt["Meme ID"] = df_gt["Meme ID"].astype(str)
     
     print("="*60)
-    print("CLAUDE 3.7 HINDI HATE SPEECH EVALUATION")
+    print("LLM HINDI HATE SPEECH EVALUATION")
     print("="*60)
     print(f"Model predictions folder: {model_predictions_folder}")
     print(f"Ground truth file: {ANNOTATION_PATH}")
@@ -335,12 +335,12 @@ if __name__ == '__main__':
     
     if not os.path.exists(response_file):
         print(f"ERROR: Could not find {response_file}")
-        print("Make sure you have run Claude 3.7 inference first.")
+        print("Make sure you have run LLM inference first.")
         sys.exit(1)
     
     print(f"Processing: {response_file}")
     
-    # Load Claude 3.7 results
+    # Load LLM results
     df_inference = pd.read_csv(response_file)
     print(f"Loaded {len(df_inference)} responses")
     
@@ -452,11 +452,6 @@ if __name__ == '__main__':
     print("EVALUATION COMPLETE")
     print("="*60)
     
-    # Show why multiple prompts exist
-    print(f"\nWHY MULTIPLE PROMPTS?")
-    print(f"Your results file contains {len(unique_prompts)} different prompts.")
-    print(f"This suggests you ran the original pipeline with 6 prompts, not your single-prompt Claude script.")
-    print(f"To get single prompt results, re-run your Claude script: python vlm/inference/claude.37.py")
     
     # Sample of results
     print("\nSample results (first 10 responses):")
@@ -467,7 +462,7 @@ if __name__ == '__main__':
     print(sample_df.to_string(index=False))
     
     print(f"\nFINAL SUMMARY:")
-    print(f"Claude 3.7 Hindi Hate Speech Detection")
+    print(f"LLM Hindi Hate Speech Detection")
     print(f"Total images processed: {len(df_inference['Meme ID'].unique())}")
     print(f"Prompts used: {len(unique_prompts)}")
     print(f"Valid responses: {valid_count}/{total_responses}")

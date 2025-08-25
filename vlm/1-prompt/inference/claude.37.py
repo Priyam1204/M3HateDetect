@@ -11,8 +11,8 @@ current_script_dir = os.path.dirname(os.path.abspath(__file__))
 two_dirs_up = os.path.abspath(os.path.join(current_script_dir, '..', '..'))
 sys.path.append(two_dirs_up)
 
-# Claude 3.7 Configuration - Hindi images with English prompts
-API_KEY = "sk-LlNaYWmpIosbXqD4jxXCPA"
+# LLM Configuration - Hindi images with English prompts
+API_KEY = "your api key here"
 BASE_URL = "https://llm.tensor.rocks/v1"
 
 def get_hindi_images():
@@ -46,7 +46,7 @@ Any kind of communication [...], that attacks or uses pejorative or discriminato
 
 """
     
-    # English country insertion prompt (keep intact) - using India
+    #country  cultural cues insertion prompt for India
     country_prompt = """Answer if this meme is hate or not in India, keeping in mind Indian sentiments and cultural sensitivities. Consider that Indians are generally offended by:
     - Content that mocks or disrespects religious beliefs, deities, or religious practices (Hinduism, Islam, Sikhism, Christianity, Buddhism, Jainism)
     - Derogatory remarks about caste, regional identities, or linguistic communities
@@ -101,21 +101,21 @@ Any kind of communication [...], that attacks or uses pejorative or discriminato
     
     return messages, id_image
 
-def create_claude_client():
-    """Create Claude 3.7 client"""
+def create_LLM_client():
+    """Create LLM client"""
     client = OpenAI(
         api_key=API_KEY,
         base_url=BASE_URL
     )
     return client
 
-def call_claude_api(messages, client):
-    """Call Claude 3.7 API with single prompt"""
+def call_LLM_api(messages, client):
+    """Call LLM API with single prompt"""
     try:
         response = client.chat.completions.create(
             model="anthropic/claude-3.7-sonnet",
             messages=messages,
-            max_tokens=5,  # Limit to force single letter response
+            max_tokens=5,  # Limited to force single letter response
             temperature=0,
         )
         
@@ -123,11 +123,11 @@ def call_claude_api(messages, client):
         original_prompt = messages[0]["content"][0]["text"] if messages and messages[0]["content"] else ""
         response_text = original_prompt + "\nAssistant:" + response_content
         
-        print(f"Claude 3.7 API call successful - Response: '{response_content}'")
+        print(f"LLM API call successful - Response: '{response_content}'")
         return response_text
         
     except Exception as e:
-        print(f"Claude 3.7 API call failed: {e}")
+        print(f"LLM API call failed: {e}")
         return f"Error: {str(e)}"
 
 def save_results(results, model_path):
@@ -148,11 +148,11 @@ def save_results(results, model_path):
     return output_file
 
 def main():
-    print("Starting Claude 3.7 Single Prompt Inference")
+    print("Starting LLM Single Prompt Inference")
     print("=" * 50)
     
     # Parse arguments
-    parser = argparse.ArgumentParser(description='Run Claude 3.7 with single India country prompt')
+    parser = argparse.ArgumentParser(description='Run LLM with single India country prompt')
     parser.add_argument('--model_path', type=str, required=False, default='claude_single_prompt')
     parser.add_argument('--caption', action='store_true', help='Enable captioning')
     parser.add_argument('--unimodal', action='store_true', help='Enable unimodal (text-only) mode')
@@ -205,8 +205,8 @@ Any kind of communication [...], that attacks or uses pejorative or discriminato
     print()
     
     # Create Claude client
-    print("Creating Claude 3.7 client...")
-    client = create_claude_client()
+    print("Creating LLM client...")
+    client = create_LLM_client()
     
     # Process images
     results = []
@@ -220,7 +220,7 @@ Any kind of communication [...], that attacks or uses pejorative or discriminato
         messages, image_id = create_single_prompt(image_path, args.caption, args.unimodal)
         
         # Call Claude API
-        response = call_claude_api(messages, client)
+        response = call_LLM_api(messages, client)
         
         # Store result
         results.append({
@@ -238,7 +238,7 @@ Any kind of communication [...], that attacks or uses pejorative or discriminato
     output_file = save_results(results, args.model_path)
     
     print(f"\n{'='*50}")
-    print("CLAUDE 3.7 SINGLE PROMPT INFERENCE COMPLETED")
+    print("LLM SINGLE PROMPT INFERENCE COMPLETED")
     print(f"{'='*50}")
     print(f"Images processed: {len(results)}")
     print(f"Prompts per image: 1")
