@@ -1,0 +1,1801 @@
+Meme ID,prompt,response,answer,hate_prediction
+memes\hi\Advicejew\222,0, b.Meme: Assistant:a,a,1
+memes\hi\Advicejew\222,1, b.Meme: Assistant:b,b,1
+memes\hi\Advicejew\222,2,on.Meme: Assistant:a,a,1
+memes\hi\Advicejew\222,3,on.Meme: Assistant:b,b,1
+memes\hi\Advicejew\222,4,ly.Meme: Assistant:a,a,1
+memes\hi\Advicejew\222,5,ly.Meme: Assistant:b,b,1
+memes\hi\Advicejew\37,0, b.Meme: Assistant:a,a,1
+memes\hi\Advicejew\37,1, b.Meme: Assistant:b,b,1
+memes\hi\Advicejew\37,2,on.Meme: Assistant:a,a,1
+memes\hi\Advicejew\37,3,on.Meme: Assistant:b,b,1
+memes\hi\Advicejew\37,4,ly.Meme: Assistant:a,a,1
+memes\hi\Advicejew\37,5,ly.Meme: Assistant:b,b,1
+memes\hi\Advicejew\38,0, b.Meme: Assistant:a,a,1
+memes\hi\Advicejew\38,1, b.Meme: Assistant:a,a,0
+memes\hi\Advicejew\38,2,on.Meme: Assistant:a,a,1
+memes\hi\Advicejew\38,3,on.Meme: Assistant:a,a,0
+memes\hi\Advicejew\38,4,ly.Meme: Assistant:b,b,0
+memes\hi\Advicejew\38,5,ly.Meme: Assistant:a,a,0
+memes\hi\Advicejew\58,0, b.Meme: Assistant:a,a,1
+memes\hi\Advicejew\58,1, b.Meme: Assistant:b,b,1
+memes\hi\Advicejew\58,2,on.Meme: Assistant:a,a,1
+memes\hi\Advicejew\58,3,on.Meme: Assistant:b,b,1
+memes\hi\Advicejew\58,4,ly.Meme: Assistant:a,a,1
+memes\hi\Advicejew\58,5,ly.Meme: Assistant:b,b,1
+memes\hi\Advicejew\74,0,ssistant:b: Non-hate,b,0
+memes\hi\Advicejew\74,1,ssistant:a: Non-hate,a,0
+memes\hi\Advicejew\74,2,on.Meme: Assistant:b,b,0
+memes\hi\Advicejew\74,3,on.Meme: Assistant:a,a,0
+memes\hi\Advicejew\74,4,ly.Meme: Assistant:b,b,0
+memes\hi\Advicejew\74,5,ly.Meme: Assistant:a,a,0
+memes\hi\Advicejew\78,0,ssistant:b: Non-hate,b,0
+memes\hi\Advicejew\78,1, b.Meme: Assistant:a,a,0
+memes\hi\Advicejew\78,2,on.Meme: Assistant:a,a,1
+memes\hi\Advicejew\78,3,on.Meme: Assistant:b,b,1
+memes\hi\Advicejew\78,4,ly.Meme: Assistant:b,b,0
+memes\hi\Advicejew\78,5,ly.Meme: Assistant:b,b,1
+memes\hi\American-Flag-Shotgun-Guy\134,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Flag-Shotgun-Guy\134,1, b.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\134,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\134,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\134,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\134,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\137,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Flag-Shotgun-Guy\137,1, b.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\137,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\137,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\137,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\137,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\138,0, b.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\138,1, b.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\138,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\138,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\138,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\138,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\142,0, b.Meme: Assistant:a,a,1
+memes\hi\American-Flag-Shotgun-Guy\142,1, b.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\142,2,on.Meme: Assistant:a,a,1
+memes\hi\American-Flag-Shotgun-Guy\142,3,on.Meme: Assistant:b,b,1
+memes\hi\American-Flag-Shotgun-Guy\142,4,ly.Meme: Assistant:a,a,1
+memes\hi\American-Flag-Shotgun-Guy\142,5,ly.Meme: Assistant:b,b,1
+memes\hi\American-Flag-Shotgun-Guy\217,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Flag-Shotgun-Guy\217,1,ssistant:a: Non-hate,a,0
+memes\hi\American-Flag-Shotgun-Guy\217,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\217,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\217,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\217,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\257,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Flag-Shotgun-Guy\257,1, b.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\257,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\257,3,on.Meme: Assistant:b,b,1
+memes\hi\American-Flag-Shotgun-Guy\257,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\257,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\261,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Flag-Shotgun-Guy\261,1, b.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\261,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\261,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Flag-Shotgun-Guy\261,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Flag-Shotgun-Guy\261,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\10,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Pride-Eagle\10,1,ssistant:a: Non-hate,a,0
+memes\hi\American-Pride-Eagle\10,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\10,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\10,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\10,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\11,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Pride-Eagle\11,1,ssistant:a: Non-hate,a,0
+memes\hi\American-Pride-Eagle\11,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\11,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\11,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\11,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\12,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Pride-Eagle\12,1,ssistant:a: Non-hate,a,0
+memes\hi\American-Pride-Eagle\12,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\12,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\12,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\12,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\13,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Pride-Eagle\13,1,ssistant:a: Non-hate,a,0
+memes\hi\American-Pride-Eagle\13,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\13,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\13,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\13,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\8,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Pride-Eagle\8,1,ssistant:a: Non-hate,a,0
+memes\hi\American-Pride-Eagle\8,2,on.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\8,3,on.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\8,4,ly.Meme: Assistant:b,b,0
+memes\hi\American-Pride-Eagle\8,5,ly.Meme: Assistant:a,a,0
+memes\hi\American-Pride-Eagle\9,0,ssistant:b: Non-hate,b,0
+memes\hi\American-Pride-Eagle\9,1,ssistant:a: Non-hate,a,0
+memes\hi\American-Pride-Eagle\9,2,on.Meme: Assistant:a,a,1
+memes\hi\American-Pride-Eagle\9,3,on.Meme: Assistant:b,b,1
+memes\hi\American-Pride-Eagle\9,4,ly.Meme: Assistant:a,a,1
+memes\hi\American-Pride-Eagle\9,5,ly.Meme: Assistant:b,b,1
+memes\hi\Angry-Muslim-Guy\180,0, b.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\180,1, b.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\180,2,on.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\180,3,on.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\180,4,ly.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\180,5,ly.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\243,0,ssistant:b: Non-hate,b,0
+memes\hi\Angry-Muslim-Guy\243,1, b.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\243,2,on.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\243,3,on.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\243,4,ly.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\243,5,ly.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\279,0,ssistant:b: Non-hate,b,0
+memes\hi\Angry-Muslim-Guy\279,1, b.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\279,2,on.Meme: Assistant:a,a,1
+memes\hi\Angry-Muslim-Guy\279,3,on.Meme: Assistant:b,b,1
+memes\hi\Angry-Muslim-Guy\279,4,ly.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\279,5,ly.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\281,0, b.Meme: Assistant:a,a,1
+memes\hi\Angry-Muslim-Guy\281,1, b.Meme: Assistant:b,b,1
+memes\hi\Angry-Muslim-Guy\281,2,on.Meme: Assistant:a,a,1
+memes\hi\Angry-Muslim-Guy\281,3,on.Meme: Assistant:b,b,1
+memes\hi\Angry-Muslim-Guy\281,4,ly.Meme: Assistant:a,a,1
+memes\hi\Angry-Muslim-Guy\281,5,ly.Meme: Assistant:b,b,1
+memes\hi\Angry-Muslim-Guy\287,0, b.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\287,1, b.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\287,2,on.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\287,3,on.Meme: Assistant:b,b,1
+memes\hi\Angry-Muslim-Guy\287,4,ly.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\287,5,ly.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\289,0, b.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\289,1, b.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\289,2,on.Meme: Assistant:a,a,1
+memes\hi\Angry-Muslim-Guy\289,3,on.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\289,4,ly.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\289,5,ly.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\42,0,ssistant:b: Non-hate,b,0
+memes\hi\Angry-Muslim-Guy\42,1, b.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\42,2,on.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\42,3,on.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\42,4,ly.Meme: Assistant:b,b,0
+memes\hi\Angry-Muslim-Guy\42,5,ly.Meme: Assistant:a,a,0
+memes\hi\Angry-Muslim-Guy\46,0, b.Meme: Assistant:a,a,1
+memes\hi\Angry-Muslim-Guy\46,1, b.Meme: Assistant:b,b,1
+memes\hi\Angry-Muslim-Guy\46,2,on.Meme: Assistant:a,a,1
+memes\hi\Angry-Muslim-Guy\46,3,on.Meme: Assistant:b,b,1
+memes\hi\Angry-Muslim-Guy\46,4,ly.Meme: Assistant:a,a,1
+memes\hi\Angry-Muslim-Guy\46,5,ly.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\187,0, b.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\187,1, b.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\187,2,on.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\187,3,on.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\187,4,ly.Meme: Assistant:b,b,0
+memes\hi\Arabic-Meme\187,5,ly.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\199,0, b.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\199,1, b.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\199,2,on.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\199,3,on.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\199,4,ly.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\199,5,ly.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\226,0, b.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\226,1, b.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\226,2,on.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\226,3,on.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\226,4,ly.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\226,5,ly.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\230,0, b.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\230,1, b.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\230,2,on.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\230,3,on.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\230,4,ly.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\230,5,ly.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\251,0, b.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\251,1, b.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\251,2,on.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\251,3,on.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\251,4,ly.Meme: Assistant:a,a,1
+memes\hi\Arabic-Meme\251,5,ly.Meme: Assistant:b,b,1
+memes\hi\Arabic-Meme\254,0, b.Meme: Assistant:b,b,0
+memes\hi\Arabic-Meme\254,1, b.Meme: Assistant:a,a,0
+memes\hi\Arabic-Meme\254,2,on.Meme: Assistant:b,b,0
+memes\hi\Arabic-Meme\254,3,on.Meme: Assistant:a,a,0
+memes\hi\Arabic-Meme\254,4,ly.Meme: Assistant:b,b,0
+memes\hi\Arabic-Meme\254,5,ly.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\49,0,ssistant:b: Non-hate,b,0
+memes\hi\Asian-College-Freshman\49,1, b.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\49,2,on.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\49,3,on.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\49,4,ly.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\49,5,ly.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\59,0,ssistant:b: Non-hate,b,0
+memes\hi\Asian-College-Freshman\59,1, b.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\59,2,on.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\59,3,on.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\59,4,ly.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\59,5,ly.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\60,0,ssistant:b: Non-hate,b,0
+memes\hi\Asian-College-Freshman\60,1, b.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\60,2,on.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\60,3,on.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\60,4,ly.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\60,5,ly.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\64,0,ssistant:b: Non-hate,b,0
+memes\hi\Asian-College-Freshman\64,1, b.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\64,2,on.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\64,3,on.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\64,4,ly.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\64,5,ly.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\65,0,ssistant:b: Non-hate,b,0
+memes\hi\Asian-College-Freshman\65,1,ssistant:a: Non-hate,a,0
+memes\hi\Asian-College-Freshman\65,2,on.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\65,3,on.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\65,4,ly.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\65,5,ly.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\68,0,ssistant:b: Non-hate,b,0
+memes\hi\Asian-College-Freshman\68,1, b.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\68,2,on.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\68,3,on.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\68,4,ly.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\68,5,ly.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\94,0,ssistant:b: Non-hate,b,0
+memes\hi\Asian-College-Freshman\94,1,ssistant:a: Non-hate,a,0
+memes\hi\Asian-College-Freshman\94,2,on.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\94,3,on.Meme: Assistant:a,a,0
+memes\hi\Asian-College-Freshman\94,4,ly.Meme: Assistant:b,b,0
+memes\hi\Asian-College-Freshman\94,5,ly.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\111,0,ssistant:b: Non-hate,b,0
+memes\hi\Bad-Advice-Asian\111,1, b.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\111,2,on.Meme: Assistant:a,a,1
+memes\hi\Bad-Advice-Asian\111,3,on.Meme: Assistant:b,b,1
+memes\hi\Bad-Advice-Asian\111,4,ly.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\111,5,ly.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\135,0,ssistant:b: Non-hate,b,0
+memes\hi\Bad-Advice-Asian\135,1,ssistant:a: Non-hate,a,0
+memes\hi\Bad-Advice-Asian\135,2,on.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\135,3,on.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\135,4,ly.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\135,5,ly.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\160,0,ssistant:b: Non-hate,b,0
+memes\hi\Bad-Advice-Asian\160,1, b.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\160,2,on.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\160,3,on.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\160,4,ly.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\160,5,ly.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\167,0, b.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\167,1, b.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\167,2,on.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\167,3,on.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\167,4,ly.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\167,5,ly.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\170,0,ssistant:b: Non-hate,b,0
+memes\hi\Bad-Advice-Asian\170,1, b.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\170,2,on.Meme: Assistant:a,a,1
+memes\hi\Bad-Advice-Asian\170,3,on.Meme: Assistant:b,b,1
+memes\hi\Bad-Advice-Asian\170,4,ly.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\170,5,ly.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\201,0,ssistant:b: Non-hate,b,0
+memes\hi\Bad-Advice-Asian\201,1, b.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\201,2,on.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\201,3,on.Meme: Assistant:a,a,0
+memes\hi\Bad-Advice-Asian\201,4,ly.Meme: Assistant:b,b,0
+memes\hi\Bad-Advice-Asian\201,5,ly.Meme: Assistant:a,a,0
+memes\hi\Black-Kid\22,0, b.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\22,1, b.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\22,2,on.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\22,3,on.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\22,4,ly.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\22,5,ly.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\23,0, b.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\23,1, b.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\23,2,on.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\23,3,on.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\23,4,ly.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\23,5,ly.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\24,0, b.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\24,1, b.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\24,2,on.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\24,3,on.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\24,4,ly.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\24,5,ly.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\25,0, b.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\25,1, b.Meme: Assistant:a,a,0
+memes\hi\Black-Kid\25,2,on.Meme: Assistant:b,b,0
+memes\hi\Black-Kid\25,3,on.Meme: Assistant:a,a,0
+memes\hi\Black-Kid\25,4,ly.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\25,5,ly.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\26,0,ssistant:b: Non-hate,b,0
+memes\hi\Black-Kid\26,1, b.Meme: Assistant:a,a,0
+memes\hi\Black-Kid\26,2,on.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\26,3,on.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\26,4,ly.Meme: Assistant:b,b,0
+memes\hi\Black-Kid\26,5,ly.Meme: Assistant:a,a,0
+memes\hi\Black-Kid\27,0, b.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\27,1, b.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\27,2,on.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\27,3,on.Meme: Assistant:a,a,0
+memes\hi\Black-Kid\27,4,ly.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\27,5,ly.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\28,0, b.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\28,1, b.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\28,2,on.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\28,3,on.Meme: Assistant:b,b,1
+memes\hi\Black-Kid\28,4,ly.Meme: Assistant:a,a,1
+memes\hi\Black-Kid\28,5,ly.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\120,0,ssistant:b: Non-hate,b,0
+memes\hi\Condescending-Christian\120,1, b.Meme: Assistant:a,a,0
+memes\hi\Condescending-Christian\120,2,on.Meme: Assistant:b,b,0
+memes\hi\Condescending-Christian\120,3,on.Meme: Assistant:a,a,0
+memes\hi\Condescending-Christian\120,4,ly.Meme: Assistant:b,b,0
+memes\hi\Condescending-Christian\120,5,ly.Meme: Assistant:a,a,0
+memes\hi\Condescending-Christian\140,0, b.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\140,1, b.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\140,2,on.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\140,3,on.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\140,4,ly.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\140,5,ly.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\149,0, b.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\149,1, b.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\149,2,on.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\149,3,on.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\149,4,ly.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\149,5,ly.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\150,0,ssistant:b: Non-hate,b,0
+memes\hi\Condescending-Christian\150,1, b.Meme: Assistant:a,a,0
+memes\hi\Condescending-Christian\150,2,on.Meme: Assistant:b,b,0
+memes\hi\Condescending-Christian\150,3,on.Meme: Assistant:a,a,0
+memes\hi\Condescending-Christian\150,4,ly.Meme: Assistant:b,b,0
+memes\hi\Condescending-Christian\150,5,ly.Meme: Assistant:a,a,0
+memes\hi\Condescending-Christian\169,0, b.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\169,1,e: Assistant:b: Hate,b,1
+memes\hi\Condescending-Christian\169,2,on.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\169,3,on.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\169,4,ly.Meme: Assistant:a,a,1
+memes\hi\Condescending-Christian\169,5,ly.Meme: Assistant:b,b,1
+memes\hi\Condescending-Christian\99,0,ssistant:b: Non-hate,b,0
+memes\hi\Condescending-Christian\99,1, b.Meme: Assistant:a,a,0
+memes\hi\Condescending-Christian\99,2,on.Meme: Assistant:b,b,0
+memes\hi\Condescending-Christian\99,3,on.Meme: Assistant:a,a,0
+memes\hi\Condescending-Christian\99,4,ly.Meme: Assistant:b,b,0
+memes\hi\Condescending-Christian\99,5,ly.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\216,0,ssistant:b: Non-hate,b,0
+memes\hi\Confused-Muslim-Girl\216,1, b.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\216,2,on.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\216,3,on.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\216,4,ly.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\216,5,ly.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\220,0, b.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\220,1, b.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\220,2,on.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\220,3,on.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\220,4,ly.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\220,5,ly.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\223,0, b.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\223,1, b.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\223,2,on.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\223,3,on.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\223,4,ly.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\223,5,ly.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\224,0,ssistant:b: Non-hate,b,0
+memes\hi\Confused-Muslim-Girl\224,1, b.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\224,2,on.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\224,3,on.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\224,4,ly.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\224,5,ly.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\225,0, b.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\225,1, b.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\225,2,on.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\225,3,on.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\225,4,ly.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\225,5,ly.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\229,0,ssistant:b: Non-hate,b,0
+memes\hi\Confused-Muslim-Girl\229,1, b.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\229,2,on.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\229,3,on.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\229,4,ly.Meme: Assistant:b,b,0
+memes\hi\Confused-Muslim-Girl\229,5,ly.Meme: Assistant:a,a,0
+memes\hi\Confused-Muslim-Girl\283,0, b.Meme: Assistant:a,a,1
+memes\hi\Confused-Muslim-Girl\283,1, b.Meme: Assistant:b,b,1
+memes\hi\Confused-Muslim-Girl\283,2,on.Meme: Assistant:a,a,1
+memes\hi\Confused-Muslim-Girl\283,3,on.Meme: Assistant:b,b,1
+memes\hi\Confused-Muslim-Girl\283,4,ly.Meme: Assistant:a,a,1
+memes\hi\Confused-Muslim-Girl\283,5,ly.Meme: Assistant:b,b,1
+memes\hi\Feminist-Cunt\139,0, b.Meme: Assistant:a,a,1
+memes\hi\Feminist-Cunt\139,1, b.Meme: Assistant:b,b,1
+memes\hi\Feminist-Cunt\139,2,on.Meme: Assistant:a,a,1
+memes\hi\Feminist-Cunt\139,3,on.Meme: Assistant:b,b,1
+memes\hi\Feminist-Cunt\139,4,ly.Meme: Assistant:a,a,1
+memes\hi\Feminist-Cunt\139,5,ly.Meme: Assistant:b,b,1
+memes\hi\Feminist-Cunt\244,0,ssistant:b: Non-hate,b,0
+memes\hi\Feminist-Cunt\244,1, b.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\244,2,on.Meme: Assistant:b,b,0
+memes\hi\Feminist-Cunt\244,3,on.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\244,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feminist-Cunt\244,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\278,0, b.Meme: Assistant:b,b,0
+memes\hi\Feminist-Cunt\278,1, b.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\278,2,on.Meme: Assistant:b,b,0
+memes\hi\Feminist-Cunt\278,3,on.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\278,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feminist-Cunt\278,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\50,0,ssistant:b: Non-hate,b,0
+memes\hi\Feminist-Cunt\50,1, b.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\50,2,on.Meme: Assistant:a,a,1
+memes\hi\Feminist-Cunt\50,3,on.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\50,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feminist-Cunt\50,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feminist-Cunt\96,0, b.Meme: Assistant:a,a,1
+memes\hi\Feminist-Cunt\96,1, b.Meme: Assistant:b,b,1
+memes\hi\Feminist-Cunt\96,2,on.Meme: Assistant:a,a,1
+memes\hi\Feminist-Cunt\96,3,on.Meme: Assistant:b,b,1
+memes\hi\Feminist-Cunt\96,4,ly.Meme: Assistant:a,a,1
+memes\hi\Feminist-Cunt\96,5,ly.Meme: Assistant:b,b,1
+memes\hi\Feministfrequently\105,0,ssistant:b: Non-hate,b,0
+memes\hi\Feministfrequently\105,1, b.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\105,2,on.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\105,3,on.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\105,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\105,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\109,0,ssistant:b: Non-hate,b,0
+memes\hi\Feministfrequently\109,1, b.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\109,2,on.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\109,3,on.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\109,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\109,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\186,0,ssistant:b: Non-hate,b,0
+memes\hi\Feministfrequently\186,1, b.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\186,2,on.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\186,3,on.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\186,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\186,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\211,0,ssistant:b: Non-hate,b,0
+memes\hi\Feministfrequently\211,1, b.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\211,2,on.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\211,3,on.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\211,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\211,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\219,0, b.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\219,1, b.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\219,2,on.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\219,3,on.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\219,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\219,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\297,0,ssistant:b: Non-hate,b,0
+memes\hi\Feministfrequently\297,1, b.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\297,2,on.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\297,3,on.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\297,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\297,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\44,0, b.Meme: Assistant:a,a,1
+memes\hi\Feministfrequently\44,1, b.Meme: Assistant:b,b,1
+memes\hi\Feministfrequently\44,2,on.Meme: Assistant:a,a,1
+memes\hi\Feministfrequently\44,3,on.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\44,4,ly.Meme: Assistant:a,a,1
+memes\hi\Feministfrequently\44,5,ly.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\45,0,ssistant:b: Non-hate,b,0
+memes\hi\Feministfrequently\45,1, b.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\45,2,on.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\45,3,on.Meme: Assistant:a,a,0
+memes\hi\Feministfrequently\45,4,ly.Meme: Assistant:b,b,0
+memes\hi\Feministfrequently\45,5,ly.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\29,0,ssistant:b: Non-hate,b,0
+memes\hi\Generic-Indian-Guy\29,1, b.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\29,2,on.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\29,3,on.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\29,4,ly.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\29,5,ly.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\30,0,ssistant:b: Non-hate,b,0
+memes\hi\Generic-Indian-Guy\30,1, b.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\30,2,on.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\30,3,on.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\30,4,ly.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\30,5,ly.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\31,0, b.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\31,1, b.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\31,2,on.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\31,3,on.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\31,4,ly.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\31,5,ly.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\32,0,ssistant:b: Non-hate,b,0
+memes\hi\Generic-Indian-Guy\32,1, b.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\32,2,on.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\32,3,on.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\32,4,ly.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\32,5,ly.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\33,0, b.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\33,1, b.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\33,2,on.Meme: Assistant:a,a,1
+memes\hi\Generic-Indian-Guy\33,3,on.Meme: Assistant:b,b,1
+memes\hi\Generic-Indian-Guy\33,4,ly.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\33,5,ly.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\34,0,ssistant:b: Non-hate,b,0
+memes\hi\Generic-Indian-Guy\34,1, b.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\34,2,on.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\34,3,on.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\34,4,ly.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\34,5,ly.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\35,0,ssistant:b: Non-hate,b,0
+memes\hi\Generic-Indian-Guy\35,1, b.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\35,2,on.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\35,3,on.Meme: Assistant:a,a,0
+memes\hi\Generic-Indian-Guy\35,4,ly.Meme: Assistant:b,b,0
+memes\hi\Generic-Indian-Guy\35,5,ly.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\128,0, b.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\128,1, b.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\128,2,on.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\128,3,on.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\128,4,ly.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\128,5,ly.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\171,0, b.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\171,1, b.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\171,2,on.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\171,3,on.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\171,4,ly.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\171,5,ly.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\172,0,ssistant:b: Non-hate,b,0
+memes\hi\Germany-Pls\172,1,ssistant:a: Non-hate,a,0
+memes\hi\Germany-Pls\172,2,on.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\172,3,on.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\172,4,ly.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\172,5,ly.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\174,0, b.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\174,1, b.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\174,2,on.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\174,3,on.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\174,4,ly.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\174,5,ly.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\176,0,ssistant:b: Non-hate,b,0
+memes\hi\Germany-Pls\176,1,ssistant:a: Non-hate,a,0
+memes\hi\Germany-Pls\176,2,on.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\176,3,on.Meme: Assistant:a,a,0
+memes\hi\Germany-Pls\176,4,ly.Meme: Assistant:b,b,0
+memes\hi\Germany-Pls\176,5,ly.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\110,0,ssistant:b: Non-hate,b,0
+memes\hi\Good-Chinese-Student\110,1, b.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\110,2,on.Meme: Assistant:b,b,0
+memes\hi\Good-Chinese-Student\110,3,on.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\110,4,ly.Meme: Assistant:b,b,0
+memes\hi\Good-Chinese-Student\110,5,ly.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\183,0, b.Meme: Assistant:a,a,1
+memes\hi\Good-Chinese-Student\183,1, b.Meme: Assistant:b,b,1
+memes\hi\Good-Chinese-Student\183,2,on.Meme: Assistant:a,a,1
+memes\hi\Good-Chinese-Student\183,3,on.Meme: Assistant:b,b,1
+memes\hi\Good-Chinese-Student\183,4,ly.Meme: Assistant:a,a,1
+memes\hi\Good-Chinese-Student\183,5,ly.Meme: Assistant:b,b,1
+memes\hi\Good-Chinese-Student\252,0,ssistant:b: Non-hate,b,0
+memes\hi\Good-Chinese-Student\252,1, b.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\252,2,on.Meme: Assistant:b,b,0
+memes\hi\Good-Chinese-Student\252,3,on.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\252,4,ly.Meme: Assistant:b,b,0
+memes\hi\Good-Chinese-Student\252,5,ly.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\266,0, b.Meme: Assistant:b,b,0
+memes\hi\Good-Chinese-Student\266,1, b.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\266,2,on.Meme: Assistant:a,a,1
+memes\hi\Good-Chinese-Student\266,3,on.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\266,4,ly.Meme: Assistant:b,b,0
+memes\hi\Good-Chinese-Student\266,5,ly.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\63,0,ssistant:b: Non-hate,b,0
+memes\hi\Good-Chinese-Student\63,1, b.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\63,2,on.Meme: Assistant:b,b,0
+memes\hi\Good-Chinese-Student\63,3,on.Meme: Assistant:a,a,0
+memes\hi\Good-Chinese-Student\63,4,ly.Meme: Assistant:b,b,0
+memes\hi\Good-Chinese-Student\63,5,ly.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\178,0, b.Meme: Assistant:b,b,0
+memes\hi\Indian-Father\178,1, b.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\178,2,on.Meme: Assistant:b,b,0
+memes\hi\Indian-Father\178,3,on.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\178,4,ly.Meme: Assistant:b,b,0
+memes\hi\Indian-Father\178,5,ly.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\179,0, b.Meme: Assistant:b,b,0
+memes\hi\Indian-Father\179,1, b.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\179,2,on.Meme: Assistant:b,b,0
+memes\hi\Indian-Father\179,3,on.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\179,4,ly.Meme: Assistant:b,b,0
+memes\hi\Indian-Father\179,5,ly.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\188,0,ssistant:b: Non-hate,b,0
+memes\hi\Indian-Father\188,1, b.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\188,2,on.Meme: Assistant:b,b,0
+memes\hi\Indian-Father\188,3,on.Meme: Assistant:a,a,0
+memes\hi\Indian-Father\188,4,ly.Meme: Assistant:b,b,0
+memes\hi\Indian-Father\188,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\103,0, b.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\103,1, b.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\103,2,on.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\103,3,on.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\103,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\103,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\154,0, b.Meme: Assistant:a,a,1
+memes\hi\Jesus-Christ\154,1, b.Meme: Assistant:b,b,1
+memes\hi\Jesus-Christ\154,2,on.Meme: Assistant:a,a,1
+memes\hi\Jesus-Christ\154,3,on.Meme: Assistant:b,b,1
+memes\hi\Jesus-Christ\154,4,ly.Meme: Assistant:a,a,1
+memes\hi\Jesus-Christ\154,5,ly.Meme: Assistant:b,b,1
+memes\hi\Jesus-Christ\204,0,ssistant:b: Non-hate,b,0
+memes\hi\Jesus-Christ\204,1, b.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\204,2,on.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\204,3,on.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\204,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\204,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\274,0,ssistant:b: Non-hate,b,0
+memes\hi\Jesus-Christ\274,1, b.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\274,2,on.Meme: Assistant:a,a,1
+memes\hi\Jesus-Christ\274,3,on.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\274,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\274,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\288,0, b.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\288,1, b.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\288,2,on.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\288,3,on.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\288,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\288,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\290,0,ssistant:b: Non-hate,b,0
+memes\hi\Jesus-Christ\290,1,ssistant:a: Non-hate,a,0
+memes\hi\Jesus-Christ\290,2,on.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\290,3,on.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\290,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\290,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\39,0, b.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\39,1, b.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\39,2,on.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\39,3,on.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\39,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\39,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\41,0,ssistant:b: Non-hate,b,0
+memes\hi\Jesus-Christ\41,1, b.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\41,2,on.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\41,3,on.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\41,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jesus-Christ\41,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jesus-Christ\52,0, b.Meme: Assistant:a,a,1
+memes\hi\Jesus-Christ\52,1,e: Assistant:b: Hate,b,1
+memes\hi\Jesus-Christ\52,2,on.Meme: Assistant:a,a,1
+memes\hi\Jesus-Christ\52,3,on.Meme: Assistant:b,b,1
+memes\hi\Jesus-Christ\52,4,ly.Meme: Assistant:a,a,1
+memes\hi\Jesus-Christ\52,5,ly.Meme: Assistant:b,b,1
+memes\hi\Jewish-Dude\106,0, b.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\106,1, b.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\106,2,on.Meme: Assistant:a,a,1
+memes\hi\Jewish-Dude\106,3,on.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\106,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\106,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\148,0, b.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\148,1, b.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\148,2,on.Meme: Assistant:a,a,1
+memes\hi\Jewish-Dude\148,3,on.Meme: Assistant:b,b,1
+memes\hi\Jewish-Dude\148,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\148,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\165,0,ssistant:b: Non-hate,b,0
+memes\hi\Jewish-Dude\165,1, b.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\165,2,on.Meme: Assistant:a,a,1
+memes\hi\Jewish-Dude\165,3,on.Meme: Assistant:b,b,1
+memes\hi\Jewish-Dude\165,4,ly.Meme: Assistant:a,a,1
+memes\hi\Jewish-Dude\165,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\177,0, b.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\177,1, b.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\177,2,on.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\177,3,on.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\177,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\177,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\233,0, b.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\233,1, b.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\233,2,on.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\233,3,on.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\233,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\233,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\234,0, b.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\234,1, b.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\234,2,on.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\234,3,on.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\234,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\234,5,ly.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\51,0, b.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\51,1, b.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\51,2,on.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\51,3,on.Meme: Assistant:a,a,0
+memes\hi\Jewish-Dude\51,4,ly.Meme: Assistant:b,b,0
+memes\hi\Jewish-Dude\51,5,ly.Meme: Assistant:a,a,0
+memes\hi\Like-A-Jew\112,0,ssistant:b: Non-hate,b,0
+memes\hi\Like-A-Jew\112,1, b.Meme: Assistant:a,a,0
+memes\hi\Like-A-Jew\112,2,on.Meme: Assistant:b,b,0
+memes\hi\Like-A-Jew\112,3,on.Meme: Assistant:a,a,0
+memes\hi\Like-A-Jew\112,4,ly.Meme: Assistant:b,b,0
+memes\hi\Like-A-Jew\112,5,ly.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\146,0, b.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\146,1, b.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\146,2,on.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\146,3,on.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\146,4,ly.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\146,5,ly.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\173,0, b.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\173,1, b.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\173,2,on.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\173,3,on.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\173,4,ly.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\173,5,ly.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\43,0, b.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\43,1, b.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\43,2,on.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\43,3,on.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\43,4,ly.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\43,5,ly.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\77,0, b.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\77,1, b.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\77,2,on.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\77,3,on.Meme: Assistant:b,b,1
+memes\hi\Like-A-Jew\77,4,ly.Meme: Assistant:a,a,1
+memes\hi\Like-A-Jew\77,5,ly.Meme: Assistant:b,b,1
+memes\hi\Mexicanotriste\100,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicanotriste\100,1,ssistant:a: Non-hate,a,0
+memes\hi\Mexicanotriste\100,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\100,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\100,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\100,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\102,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicanotriste\102,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\102,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\102,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\102,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\102,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\143,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicanotriste\143,1,ssistant:a: Non-hate,a,0
+memes\hi\Mexicanotriste\143,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\143,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\143,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\143,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\168,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicanotriste\168,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\168,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\168,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\168,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\168,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\191,0, b.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\191,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\191,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\191,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\191,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\191,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\277,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicanotriste\277,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\277,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\277,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\277,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\277,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\92,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicanotriste\92,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\92,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\92,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicanotriste\92,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicanotriste\92,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\200,0, b.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\200,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\200,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\200,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\200,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\200,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\238,0, b.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\238,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\238,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\238,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\238,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\238,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\241,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicans-On-A-Truck\241,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\241,2,on.Meme: Assistant:a,a,1
+memes\hi\Mexicans-On-A-Truck\241,3,on.Meme: Assistant:b,b,1
+memes\hi\Mexicans-On-A-Truck\241,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\241,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\250,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicans-On-A-Truck\250,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\250,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\250,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\250,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\250,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\253,0, b.Meme: Assistant:a,a,1
+memes\hi\Mexicans-On-A-Truck\253,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\253,2,on.Meme: Assistant:a,a,1
+memes\hi\Mexicans-On-A-Truck\253,3,on.Meme: Assistant:b,b,1
+memes\hi\Mexicans-On-A-Truck\253,4,ly.Meme: Assistant:a,a,1
+memes\hi\Mexicans-On-A-Truck\253,5,ly.Meme: Assistant:b,b,1
+memes\hi\Mexicans-On-A-Truck\255,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicans-On-A-Truck\255,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\255,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\255,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\255,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\255,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\259,0, b.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\259,1, b.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\259,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\259,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\259,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\259,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\260,0,ssistant:b: Non-hate,b,0
+memes\hi\Mexicans-On-A-Truck\260,1,ssistant:a: Non-hate,a,0
+memes\hi\Mexicans-On-A-Truck\260,2,on.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\260,3,on.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\260,4,ly.Meme: Assistant:b,b,0
+memes\hi\Mexicans-On-A-Truck\260,5,ly.Meme: Assistant:a,a,0
+memes\hi\Mexicans-On-A-Truck\262,0, b.Meme: Assistant:a,a,1
+memes\hi\Mexicans-On-A-Truck\262,1, b.Meme: Assistant:b,b,1
+memes\hi\Mexicans-On-A-Truck\262,2,on.Meme: Assistant:a,a,1
+memes\hi\Mexicans-On-A-Truck\262,3,on.Meme: Assistant:b,b,1
+memes\hi\Mexicans-On-A-Truck\262,4,ly.Meme: Assistant:a,a,1
+memes\hi\Mexicans-On-A-Truck\262,5,ly.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\152,0,ssistant:b: Non-hate,b,0
+memes\hi\Muslim-Immigrant\152,1, b.Meme: Assistant:a,a,0
+memes\hi\Muslim-Immigrant\152,2,on.Meme: Assistant:b,b,0
+memes\hi\Muslim-Immigrant\152,3,on.Meme: Assistant:a,a,0
+memes\hi\Muslim-Immigrant\152,4,ly.Meme: Assistant:b,b,0
+memes\hi\Muslim-Immigrant\152,5,ly.Meme: Assistant:a,a,0
+memes\hi\Muslim-Immigrant\158,0, b.Meme: Assistant:b,b,0
+memes\hi\Muslim-Immigrant\158,1, b.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\158,2,on.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\158,3,on.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\158,4,ly.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\158,5,ly.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\203,0, b.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\203,1, b.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\203,2,on.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\203,3,on.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\203,4,ly.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\203,5,ly.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\269,0, b.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\269,1, b.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\269,2,on.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\269,3,on.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\269,4,ly.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\269,5,ly.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\280,0,ssistant:b: Non-hate,b,0
+memes\hi\Muslim-Immigrant\280,1, b.Meme: Assistant:a,a,0
+memes\hi\Muslim-Immigrant\280,2,on.Meme: Assistant:b,b,0
+memes\hi\Muslim-Immigrant\280,3,on.Meme: Assistant:a,a,0
+memes\hi\Muslim-Immigrant\280,4,ly.Meme: Assistant:b,b,0
+memes\hi\Muslim-Immigrant\280,5,ly.Meme: Assistant:a,a,0
+memes\hi\Muslim-Immigrant\298,0, b.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\298,1, b.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\298,2,on.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\298,3,on.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\298,4,ly.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\298,5,ly.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\76,0, b.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\76,1, b.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\76,2,on.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\76,3,on.Meme: Assistant:b,b,1
+memes\hi\Muslim-Immigrant\76,4,ly.Meme: Assistant:a,a,1
+memes\hi\Muslim-Immigrant\76,5,ly.Meme: Assistant:b,b,1
+memes\hi\Nia-China\272,0,ssistant:b: Non-hate,b,0
+memes\hi\Nia-China\272,1, b.Meme: Assistant:a,a,0
+memes\hi\Nia-China\272,2,on.Meme: Assistant:a,a,1
+memes\hi\Nia-China\272,3,on.Meme: Assistant:b,b,1
+memes\hi\Nia-China\272,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nia-China\272,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nia-China\291,0, b.Meme: Assistant:b,b,0
+memes\hi\Nia-China\291,1, b.Meme: Assistant:a,a,0
+memes\hi\Nia-China\291,2,on.Meme: Assistant:b,b,0
+memes\hi\Nia-China\291,3,on.Meme: Assistant:a,a,0
+memes\hi\Nia-China\291,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nia-China\291,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nia-China\292,0, b.Meme: Assistant:a,a,1
+memes\hi\Nia-China\292,1, b.Meme: Assistant:b,b,1
+memes\hi\Nia-China\292,2,on.Meme: Assistant:a,a,1
+memes\hi\Nia-China\292,3,on.Meme: Assistant:b,b,1
+memes\hi\Nia-China\292,4,ly.Meme: Assistant:a,a,1
+memes\hi\Nia-China\292,5,ly.Meme: Assistant:b,b,1
+memes\hi\Nia-China\293,0, b.Meme: Assistant:a,a,1
+memes\hi\Nia-China\293,1, b.Meme: Assistant:a,a,0
+memes\hi\Nia-China\293,2,on.Meme: Assistant:a,a,1
+memes\hi\Nia-China\293,3,on.Meme: Assistant:b,b,1
+memes\hi\Nia-China\293,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nia-China\293,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nia-China\294,0,ssistant:b: Non-hate,b,0
+memes\hi\Nia-China\294,1, b.Meme: Assistant:a,a,0
+memes\hi\Nia-China\294,2,on.Meme: Assistant:b,b,0
+memes\hi\Nia-China\294,3,on.Meme: Assistant:a,a,0
+memes\hi\Nia-China\294,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nia-China\294,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nia-China\295,0,ssistant:b: Non-hate,b,0
+memes\hi\Nia-China\295,1, b.Meme: Assistant:a,a,0
+memes\hi\Nia-China\295,2,on.Meme: Assistant:b,b,0
+memes\hi\Nia-China\295,3,on.Meme: Assistant:a,a,0
+memes\hi\Nia-China\295,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nia-China\295,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nia-China\296,0,ssistant:b: Non-hate,b,0
+memes\hi\Nia-China\296,1, b.Meme: Assistant:a,a,0
+memes\hi\Nia-China\296,2,on.Meme: Assistant:b,b,0
+memes\hi\Nia-China\296,3,on.Meme: Assistant:a,a,0
+memes\hi\Nia-China\296,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nia-China\296,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nia-China\299,0,ssistant:b: Non-hate,b,0
+memes\hi\Nia-China\299,1,ssistant:a: Non-hate,a,0
+memes\hi\Nia-China\299,2,on.Meme: Assistant:b,b,0
+memes\hi\Nia-China\299,3,on.Meme: Assistant:a,a,0
+memes\hi\Nia-China\299,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nia-China\299,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\83,0, b.Meme: Assistant:b,b,0
+memes\hi\Nice-White-Girl\83,1, b.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\83,2,on.Meme: Assistant:a,a,1
+memes\hi\Nice-White-Girl\83,3,on.Meme: Assistant:b,b,1
+memes\hi\Nice-White-Girl\83,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nice-White-Girl\83,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\84,0, b.Meme: Assistant:b,b,0
+memes\hi\Nice-White-Girl\84,1, b.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\84,2,on.Meme: Assistant:a,a,1
+memes\hi\Nice-White-Girl\84,3,on.Meme: Assistant:b,b,1
+memes\hi\Nice-White-Girl\84,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nice-White-Girl\84,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\85,0,ssistant:b: Non-hate,b,0
+memes\hi\Nice-White-Girl\85,1,ssistant:a: Non-hate,a,0
+memes\hi\Nice-White-Girl\85,2,on.Meme: Assistant:b,b,0
+memes\hi\Nice-White-Girl\85,3,on.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\85,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nice-White-Girl\85,5,ly.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\88,0, b.Meme: Assistant:a,a,1
+memes\hi\Nice-White-Girl\88,1, b.Meme: Assistant:b,b,1
+memes\hi\Nice-White-Girl\88,2,on.Meme: Assistant:a,a,1
+memes\hi\Nice-White-Girl\88,3,on.Meme: Assistant:b,b,1
+memes\hi\Nice-White-Girl\88,4,ly.Meme: Assistant:a,a,1
+memes\hi\Nice-White-Girl\88,5,ly.Meme: Assistant:b,b,1
+memes\hi\Nice-White-Girl\93,0,ssistant:b: Non-hate,b,0
+memes\hi\Nice-White-Girl\93,1, b.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\93,2,on.Meme: Assistant:b,b,0
+memes\hi\Nice-White-Girl\93,3,on.Meme: Assistant:a,a,0
+memes\hi\Nice-White-Girl\93,4,ly.Meme: Assistant:b,b,0
+memes\hi\Nice-White-Girl\93,5,ly.Meme: Assistant:a,a,0
+memes\hi\Obese-American\118,0, b.Meme: Assistant:a,a,1
+memes\hi\Obese-American\118,1, b.Meme: Assistant:b,b,1
+memes\hi\Obese-American\118,2,on.Meme: Assistant:a,a,1
+memes\hi\Obese-American\118,3,on.Meme: Assistant:b,b,1
+memes\hi\Obese-American\118,4,ly.Meme: Assistant:a,a,1
+memes\hi\Obese-American\118,5,ly.Meme: Assistant:b,b,1
+memes\hi\Obese-American\129,0, b.Meme: Assistant:b,b,0
+memes\hi\Obese-American\129,1, b.Meme: Assistant:b,b,1
+memes\hi\Obese-American\129,2,on.Meme: Assistant:a,a,1
+memes\hi\Obese-American\129,3,on.Meme: Assistant:b,b,1
+memes\hi\Obese-American\129,4,ly.Meme: Assistant:b,b,0
+memes\hi\Obese-American\129,5,ly.Meme: Assistant:b,b,1
+memes\hi\Obese-American\206,0,ssistant:b: Non-hate,b,0
+memes\hi\Obese-American\206,1,ssistant:a: Non-hate,a,0
+memes\hi\Obese-American\206,2,on.Meme: Assistant:b,b,0
+memes\hi\Obese-American\206,3,on.Meme: Assistant:a,a,0
+memes\hi\Obese-American\206,4,ly.Meme: Assistant:b,b,0
+memes\hi\Obese-American\206,5,ly.Meme: Assistant:a,a,0
+memes\hi\Obese-American\284,0, b.Meme: Assistant:a,a,1
+memes\hi\Obese-American\284,1, b.Meme: Assistant:a,a,0
+memes\hi\Obese-American\284,2,on.Meme: Assistant:a,a,1
+memes\hi\Obese-American\284,3,on.Meme: Assistant:a,a,0
+memes\hi\Obese-American\284,4,ly.Meme: Assistant:b,b,0
+memes\hi\Obese-American\284,5,ly.Meme: Assistant:a,a,0
+memes\hi\Obese-American\285,0, b.Meme: Assistant:a,a,1
+memes\hi\Obese-American\285,1, b.Meme: Assistant:b,b,1
+memes\hi\Obese-American\285,2,on.Meme: Assistant:a,a,1
+memes\hi\Obese-American\285,3,on.Meme: Assistant:b,b,1
+memes\hi\Obese-American\285,4,ly.Meme: Assistant:a,a,1
+memes\hi\Obese-American\285,5,ly.Meme: Assistant:b,b,1
+memes\hi\Obese-American\70,0, b.Meme: Assistant:a,a,1
+memes\hi\Obese-American\70,1, b.Meme: Assistant:b,b,1
+memes\hi\Obese-American\70,2,on.Meme: Assistant:a,a,1
+memes\hi\Obese-American\70,3,on.Meme: Assistant:b,b,1
+memes\hi\Obese-American\70,4,ly.Meme: Assistant:b,b,0
+memes\hi\Obese-American\70,5,ly.Meme: Assistant:a,a,0
+memes\hi\Obese-American\75,0, b.Meme: Assistant:a,a,1
+memes\hi\Obese-American\75,1, b.Meme: Assistant:b,b,1
+memes\hi\Obese-American\75,2,on.Meme: Assistant:a,a,1
+memes\hi\Obese-American\75,3,on.Meme: Assistant:b,b,1
+memes\hi\Obese-American\75,4,ly.Meme: Assistant:a,a,1
+memes\hi\Obese-American\75,5,ly.Meme: Assistant:b,b,1
+memes\hi\Obese-American\97,0,ssistant:b: Non-hate,b,0
+memes\hi\Obese-American\97,1, b.Meme: Assistant:a,a,0
+memes\hi\Obese-American\97,2,on.Meme: Assistant:b,b,0
+memes\hi\Obese-American\97,3,on.Meme: Assistant:a,a,0
+memes\hi\Obese-American\97,4,ly.Meme: Assistant:b,b,0
+memes\hi\Obese-American\97,5,ly.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\194,0, b.Meme: Assistant:b,b,0
+memes\hi\Oppressive-Trans-Bro\194,1, b.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\194,2,on.Meme: Assistant:b,b,0
+memes\hi\Oppressive-Trans-Bro\194,3,on.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\194,4,ly.Meme: Assistant:b,b,0
+memes\hi\Oppressive-Trans-Bro\194,5,ly.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\195,0,ssistant:b: Non-hate,b,0
+memes\hi\Oppressive-Trans-Bro\195,1, b.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\195,2,on.Meme: Assistant:b,b,0
+memes\hi\Oppressive-Trans-Bro\195,3,on.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\195,4,ly.Meme: Assistant:b,b,0
+memes\hi\Oppressive-Trans-Bro\195,5,ly.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\198,0, b.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\198,1, b.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\198,2,on.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\198,3,on.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\198,4,ly.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\198,5,ly.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\202,0, b.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\202,1, b.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\202,2,on.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\202,3,on.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\202,4,ly.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\202,5,ly.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\210,0,ssistant:b: Non-hate,b,0
+memes\hi\Oppressive-Trans-Bro\210,1, b.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\210,2,on.Meme: Assistant:b,b,0
+memes\hi\Oppressive-Trans-Bro\210,3,on.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\210,4,ly.Meme: Assistant:b,b,0
+memes\hi\Oppressive-Trans-Bro\210,5,ly.Meme: Assistant:a,a,0
+memes\hi\Oppressive-Trans-Bro\245,0, b.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\245,1, b.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\245,2,on.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\245,3,on.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\245,4,ly.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\245,5,ly.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\249,0, b.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\249,1, b.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\249,2,on.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\249,3,on.Meme: Assistant:b,b,1
+memes\hi\Oppressive-Trans-Bro\249,4,ly.Meme: Assistant:a,a,1
+memes\hi\Oppressive-Trans-Bro\249,5,ly.Meme: Assistant:b,b,1
+memes\hi\Policeman\221,0, b.Meme: Assistant:b,b,0
+memes\hi\Policeman\221,1, b.Meme: Assistant:a,a,0
+memes\hi\Policeman\221,2,on.Meme: Assistant:b,b,0
+memes\hi\Policeman\221,3,on.Meme: Assistant:a,a,0
+memes\hi\Policeman\221,4,ly.Meme: Assistant:b,b,0
+memes\hi\Policeman\221,5,ly.Meme: Assistant:a,a,0
+memes\hi\Policeman\235,0, b.Meme: Assistant:a,a,1
+memes\hi\Policeman\235,1, b.Meme: Assistant:b,b,1
+memes\hi\Policeman\235,2,on.Meme: Assistant:a,a,1
+memes\hi\Policeman\235,3,on.Meme: Assistant:b,b,1
+memes\hi\Policeman\235,4,ly.Meme: Assistant:a,a,1
+memes\hi\Policeman\235,5,ly.Meme: Assistant:b,b,1
+memes\hi\Policeman\258,0, b.Meme: Assistant:a,a,1
+memes\hi\Policeman\258,1, b.Meme: Assistant:b,b,1
+memes\hi\Policeman\258,2,on.Meme: Assistant:a,a,1
+memes\hi\Policeman\258,3,on.Meme: Assistant:b,b,1
+memes\hi\Policeman\258,4,ly.Meme: Assistant:a,a,1
+memes\hi\Policeman\258,5,ly.Meme: Assistant:b,b,1
+memes\hi\Policeman\267,0,ssistant:b: Non-hate,b,0
+memes\hi\Policeman\267,1, b.Meme: Assistant:a,a,0
+memes\hi\Policeman\267,2,on.Meme: Assistant:b,b,0
+memes\hi\Policeman\267,3,on.Meme: Assistant:a,a,0
+memes\hi\Policeman\267,4,ly.Meme: Assistant:b,b,0
+memes\hi\Policeman\267,5,ly.Meme: Assistant:a,a,0
+memes\hi\Policeman\270,0, b.Meme: Assistant:a,a,1
+memes\hi\Policeman\270,1, b.Meme: Assistant:a,a,0
+memes\hi\Policeman\270,2,on.Meme: Assistant:a,a,1
+memes\hi\Policeman\270,3,on.Meme: Assistant:a,a,0
+memes\hi\Policeman\270,4,ly.Meme: Assistant:b,b,0
+memes\hi\Policeman\270,5,ly.Meme: Assistant:b,b,1
+memes\hi\Policeman\276,0,ssistant:b: Non-hate,b,0
+memes\hi\Policeman\276,1, b.Meme: Assistant:a,a,0
+memes\hi\Policeman\276,2,on.Meme: Assistant:b,b,0
+memes\hi\Policeman\276,3,on.Meme: Assistant:a,a,0
+memes\hi\Policeman\276,4,ly.Meme: Assistant:b,b,0
+memes\hi\Policeman\276,5,ly.Meme: Assistant:a,a,0
+memes\hi\Policeman\282,0, b.Meme: Assistant:b,b,0
+memes\hi\Policeman\282,1, b.Meme: Assistant:a,a,0
+memes\hi\Policeman\282,2,on.Meme: Assistant:b,b,0
+memes\hi\Policeman\282,3,on.Meme: Assistant:a,a,0
+memes\hi\Policeman\282,4,ly.Meme: Assistant:b,b,0
+memes\hi\Policeman\282,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\130,0,ssistant:b: Non-hate,b,0
+memes\hi\Privilege-Abusing-White-Couple\130,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\130,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\130,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\130,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\130,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\131,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\131,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\131,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\131,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\131,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\131,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\132,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\132,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\132,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\132,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\132,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\132,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\133,0,ssistant:b: Non-hate,b,0
+memes\hi\Privilege-Abusing-White-Couple\133,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\133,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\133,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\133,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\133,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\136,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\136,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\136,2,on.Meme: Assistant:a,a,1
+memes\hi\Privilege-Abusing-White-Couple\136,3,on.Meme: Assistant:b,b,1
+memes\hi\Privilege-Abusing-White-Couple\136,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\136,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\265,0,ssistant:b: Non-hate,b,0
+memes\hi\Privilege-Abusing-White-Couple\265,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\265,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\265,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\265,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\265,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\271,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\271,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\271,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\271,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\271,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\271,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\286,0,ssistant:b: Non-hate,b,0
+memes\hi\Privilege-Abusing-White-Couple\286,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\286,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\286,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Abusing-White-Couple\286,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Abusing-White-Couple\286,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\153,0, b.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Feminist\153,1, b.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\153,2,on.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Feminist\153,3,on.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\153,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\153,5,ly.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\162,0,ssistant:b: Non-hate,b,0
+memes\hi\Privilege-Denying-Feminist\162,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\162,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\162,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\162,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\162,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\164,0, b.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Feminist\164,1, b.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\164,2,on.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Feminist\164,3,on.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\164,4,ly.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Feminist\164,5,ly.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\192,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\192,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\192,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\192,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\192,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\192,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\193,0, b.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Feminist\193,1, b.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\193,2,on.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Feminist\193,3,on.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\193,4,ly.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Feminist\193,5,ly.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Feminist\227,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\227,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\227,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\227,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\227,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\227,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\47,0,ssistant:b: Non-hate,b,0
+memes\hi\Privilege-Denying-Feminist\47,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\47,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\47,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\47,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\47,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\48,0,ssistant:b: Non-hate,b,0
+memes\hi\Privilege-Denying-Feminist\48,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\48,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\48,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Feminist\48,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Feminist\48,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\147,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\147,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\147,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\147,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\147,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\147,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\155,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\155,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\155,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\155,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\155,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\155,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\53,0,ssistant:b: Non-hate,b,0
+memes\hi\Privilege-Denying-Tranny\53,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\53,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\53,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\53,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\53,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\54,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\54,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\54,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\54,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\54,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\54,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\55,0, b.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\55,1, b.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\55,2,on.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\55,3,on.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\55,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\55,5,ly.Meme: Assistant:a,a,0
+memes\hi\Privilege-Denying-Tranny\56,0, b.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Tranny\56,1, b.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Tranny\56,2,on.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Tranny\56,3,on.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Tranny\56,4,ly.Meme: Assistant:b,b,0
+memes\hi\Privilege-Denying-Tranny\56,5,ly.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Tranny\86,0, b.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Tranny\86,1, b.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Tranny\86,2,on.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Tranny\86,3,on.Meme: Assistant:b,b,1
+memes\hi\Privilege-Denying-Tranny\86,4,ly.Meme: Assistant:a,a,1
+memes\hi\Privilege-Denying-Tranny\86,5,ly.Meme: Assistant:b,b,1
+memes\hi\Richarabclap\182,0, b.Meme: Assistant:a,a,1
+memes\hi\Richarabclap\182,1, b.Meme: Assistant:b,b,1
+memes\hi\Richarabclap\182,2,on.Meme: Assistant:a,a,1
+memes\hi\Richarabclap\182,3,on.Meme: Assistant:b,b,1
+memes\hi\Richarabclap\182,4,ly.Meme: Assistant:a,a,1
+memes\hi\Richarabclap\182,5,ly.Meme: Assistant:b,b,1
+memes\hi\Richarabclap\185,0,ssistant:b: Non-hate,b,0
+memes\hi\Richarabclap\185,1, b.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\185,2,on.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\185,3,on.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\185,4,ly.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\185,5,ly.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\218,0, b.Meme: Assistant:a,a,1
+memes\hi\Richarabclap\218,1, b.Meme: Assistant:b,b,1
+memes\hi\Richarabclap\218,2,on.Meme: Assistant:a,a,1
+memes\hi\Richarabclap\218,3,on.Meme: Assistant:b,b,1
+memes\hi\Richarabclap\218,4,ly.Meme: Assistant:a,a,1
+memes\hi\Richarabclap\218,5,ly.Meme: Assistant:b,b,1
+memes\hi\Richarabclap\232,0, b.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\232,1, b.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\232,2,on.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\232,3,on.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\232,4,ly.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\232,5,ly.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\240,0, b.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\240,1, b.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\240,2,on.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\240,3,on.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\240,4,ly.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\240,5,ly.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\268,0, b.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\268,1, b.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\268,2,on.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\268,3,on.Meme: Assistant:a,a,0
+memes\hi\Richarabclap\268,4,ly.Meme: Assistant:b,b,0
+memes\hi\Richarabclap\268,5,ly.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\123,0, b.Meme: Assistant:a,a,1
+memes\hi\Sassy-Black-Woman\123,1, b.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\123,2,on.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\123,3,on.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\123,4,ly.Meme: Assistant:a,a,1
+memes\hi\Sassy-Black-Woman\123,5,ly.Meme: Assistant:b,b,1
+memes\hi\Sassy-Black-Woman\124,0, b.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\124,1, b.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\124,2,on.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\124,3,on.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\124,4,ly.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\124,5,ly.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\125,0, b.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\125,1, b.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\125,2,on.Meme: Assistant:a,a,1
+memes\hi\Sassy-Black-Woman\125,3,on.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\125,4,ly.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\125,5,ly.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\14,0,ssistant:b: Non-hate,b,0
+memes\hi\Sassy-Black-Woman\14,1, b.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\14,2,on.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\14,3,on.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\14,4,ly.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\14,5,ly.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\15,0,ssistant:b: Non-hate,b,0
+memes\hi\Sassy-Black-Woman\15,1,ssistant:a: Non-hate,a,0
+memes\hi\Sassy-Black-Woman\15,2,on.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\15,3,on.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\15,4,ly.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\15,5,ly.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\16,0,ssistant:b: Non-hate,b,0
+memes\hi\Sassy-Black-Woman\16,1, b.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\16,2,on.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\16,3,on.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\16,4,ly.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\16,5,ly.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\17,0, b.Meme: Assistant:a,a,1
+memes\hi\Sassy-Black-Woman\17,1, b.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\17,2,on.Meme: Assistant:a,a,1
+memes\hi\Sassy-Black-Woman\17,3,on.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\17,4,ly.Meme: Assistant:b,b,0
+memes\hi\Sassy-Black-Woman\17,5,ly.Meme: Assistant:a,a,0
+memes\hi\Sassy-Black-Woman\175,0, b.Meme: Assistant:a,a,1
+memes\hi\Sassy-Black-Woman\175,1, b.Meme: Assistant:b,b,1
+memes\hi\Sassy-Black-Woman\175,2,on.Meme: Assistant:a,a,1
+memes\hi\Sassy-Black-Woman\175,3,on.Meme: Assistant:b,b,1
+memes\hi\Sassy-Black-Woman\175,4,ly.Meme: Assistant:a,a,1
+memes\hi\Sassy-Black-Woman\175,5,ly.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\166,0,ssistant:b: Non-hate,b,0
+memes\hi\Scumbag-Catholic-Priest\166,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Catholic-Priest\166,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Catholic-Priest\166,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Catholic-Priest\166,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Catholic-Priest\166,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Catholic-Priest\189,0,ssistant:b: Non-hate,b,0
+memes\hi\Scumbag-Catholic-Priest\189,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Catholic-Priest\189,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Catholic-Priest\189,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Catholic-Priest\189,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Catholic-Priest\189,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Catholic-Priest\242,0,ssistant:b: Non-hate,b,0
+memes\hi\Scumbag-Catholic-Priest\242,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Catholic-Priest\242,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Catholic-Priest\242,3,on.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\242,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Catholic-Priest\242,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Catholic-Priest\247,0, b.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\247,1, b.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\247,2,on.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\247,3,on.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\247,4,ly.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\247,5,ly.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\248,0, b.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\248,1, b.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\248,2,on.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\248,3,on.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\248,4,ly.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\248,5,ly.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\275,0, b.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\275,1, b.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\275,2,on.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\275,3,on.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Catholic-Priest\275,4,ly.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Catholic-Priest\275,5,ly.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Police-Officer\181,0,ssistant:b: Non-hate,b,0
+memes\hi\Scumbag-Police-Officer\181,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\181,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\181,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\181,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\181,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\190,0, b.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\190,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\190,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\190,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\190,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\190,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\197,0, b.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\197,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\197,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\197,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\197,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\197,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\205,0,ssistant:b: Non-hate,b,0
+memes\hi\Scumbag-Police-Officer\205,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\205,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\205,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\205,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\205,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\208,0,ssistant:b: Non-hate,b,0
+memes\hi\Scumbag-Police-Officer\208,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\208,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\208,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\208,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\208,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\228,0, b.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\228,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\228,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\228,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\228,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\228,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\236,0,ssistant:b: Non-hate,b,0
+memes\hi\Scumbag-Police-Officer\236,1, b.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\236,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\236,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\236,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\236,5,ly.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\237,0, b.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Police-Officer\237,1, b.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Police-Officer\237,2,on.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Police-Officer\237,3,on.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Police-Officer\237,4,ly.Meme: Assistant:a,a,1
+memes\hi\Scumbag-Police-Officer\237,5,ly.Meme: Assistant:b,b,1
+memes\hi\Scumbag-Police-Officer\239,0,ssistant:b: Non-hate,b,0
+memes\hi\Scumbag-Police-Officer\239,1,ssistant:a: Non-hate,a,0
+memes\hi\Scumbag-Police-Officer\239,2,on.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\239,3,on.Meme: Assistant:a,a,0
+memes\hi\Scumbag-Police-Officer\239,4,ly.Meme: Assistant:b,b,0
+memes\hi\Scumbag-Police-Officer\239,5,ly.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\0,0, b.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\0,1, b.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\0,2,on.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\0,3,on.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\0,4,ly.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\0,5,ly.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\1,0, b.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\1,1, b.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\1,2,on.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\1,3,on.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\1,4,ly.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\1,5,ly.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\2,0, b.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\2,1, b.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\2,2,on.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\2,3,on.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\2,4,ly.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\2,5,ly.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\3,0,ssistant:b: Non-hate,b,0
+memes\hi\skeptical-black-kid\3,1, b.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\3,2,on.Meme: Assistant:b,b,0
+memes\hi\skeptical-black-kid\3,3,on.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\3,4,ly.Meme: Assistant:b,b,0
+memes\hi\skeptical-black-kid\3,5,ly.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\4,0,ssistant:b: Non-hate,b,0
+memes\hi\skeptical-black-kid\4,1, b.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\4,2,on.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\4,3,on.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\4,4,ly.Meme: Assistant:b,b,0
+memes\hi\skeptical-black-kid\4,5,ly.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\5,0,ssistant:b: Non-hate,b,0
+memes\hi\skeptical-black-kid\5,1, b.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\5,2,on.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\5,3,on.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\5,4,ly.Meme: Assistant:b,b,0
+memes\hi\skeptical-black-kid\5,5,ly.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\6,0, b.Meme: Assistant:b,b,0
+memes\hi\skeptical-black-kid\6,1, b.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\6,2,on.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\6,3,on.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\6,4,ly.Meme: Assistant:b,b,0
+memes\hi\skeptical-black-kid\6,5,ly.Meme: Assistant:a,a,0
+memes\hi\skeptical-black-kid\7,0,ssistant:b: Non-hate,b,0
+memes\hi\skeptical-black-kid\7,1, b.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\7,2,on.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\7,3,on.Meme: Assistant:b,b,1
+memes\hi\skeptical-black-kid\7,4,ly.Meme: Assistant:a,a,1
+memes\hi\skeptical-black-kid\7,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\36,0, b.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\36,1, b.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\36,2,on.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\36,3,on.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\36,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\36,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\40,0, b.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\40,1, b.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\40,2,on.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\40,3,on.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\40,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\40,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\57,0, b.Meme: Assistant:a,a,1
+memes\hi\Stereotypical-Indian-Telemarketer\57,1, b.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\57,2,on.Meme: Assistant:a,a,1
+memes\hi\Stereotypical-Indian-Telemarketer\57,3,on.Meme: Assistant:b,b,1
+memes\hi\Stereotypical-Indian-Telemarketer\57,4,ly.Meme: Assistant:a,a,1
+memes\hi\Stereotypical-Indian-Telemarketer\57,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\71,0, b.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\71,1, b.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\71,2,on.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\71,3,on.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\71,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\71,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\81,0, b.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\81,1, b.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\81,2,on.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\81,3,on.Meme: Assistant:a,a,0
+memes\hi\Stereotypical-Indian-Telemarketer\81,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stereotypical-Indian-Telemarketer\81,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\101,0, b.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\101,1, b.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\101,2,on.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\101,3,on.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\101,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\101,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\113,0,ssistant:b: Non-hate,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\113,1, b.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\113,2,on.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\113,3,on.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\113,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\113,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\117,0, b.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\117,1, b.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\117,2,on.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\117,3,on.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\117,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\117,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\159,0, b.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\159,1, b.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\159,2,on.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\159,3,on.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\159,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\159,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\263,0, b.Meme: Assistant:a,a,1
+memes\hi\Stern-But-Honest-Chinese-Guy\263,1, b.Meme: Assistant:b,b,1
+memes\hi\Stern-But-Honest-Chinese-Guy\263,2,on.Meme: Assistant:a,a,1
+memes\hi\Stern-But-Honest-Chinese-Guy\263,3,on.Meme: Assistant:b,b,1
+memes\hi\Stern-But-Honest-Chinese-Guy\263,4,ly.Meme: Assistant:a,a,1
+memes\hi\Stern-But-Honest-Chinese-Guy\263,5,ly.Meme: Assistant:b,b,1
+memes\hi\Stern-But-Honest-Chinese-Guy\67,0,ssistant:b: Non-hate,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\67,1, b.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\67,2,on.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\67,3,on.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\67,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\67,5,ly.Meme: Assistant:b,b,1
+memes\hi\Stern-But-Honest-Chinese-Guy\79,0,ssistant:b: Non-hate,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\79,1, b.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\79,2,on.Meme: Assistant:a,a,1
+memes\hi\Stern-But-Honest-Chinese-Guy\79,3,on.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\79,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\79,5,ly.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\80,0,ssistant:b: Non-hate,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\80,1, b.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\80,2,on.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\80,3,on.Meme: Assistant:a,a,0
+memes\hi\Stern-But-Honest-Chinese-Guy\80,4,ly.Meme: Assistant:b,b,0
+memes\hi\Stern-But-Honest-Chinese-Guy\80,5,ly.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\107,0, b.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\107,1, b.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\107,2,on.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\107,3,on.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\107,4,ly.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\107,5,ly.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\108,0, b.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\108,1, b.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\108,2,on.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\108,3,on.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\108,4,ly.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\108,5,ly.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\151,0, b.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\151,1, b.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\151,2,on.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\151,3,on.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\151,4,ly.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\151,5,ly.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\72,0, b.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\72,1, b.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\72,2,on.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\72,3,on.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\72,4,ly.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\72,5,ly.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\87,0, b.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\87,1, b.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\87,2,on.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\87,3,on.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\87,4,ly.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\87,5,ly.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\89,0, b.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\89,1, b.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\89,2,on.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\89,3,on.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\89,4,ly.Meme: Assistant:a,a,1
+memes\hi\Strict-Policeman\89,5,ly.Meme: Assistant:b,b,1
+memes\hi\Strict-Policeman\98,0,ssistant:b: Non-hate,b,0
+memes\hi\Strict-Policeman\98,1, b.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\98,2,on.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\98,3,on.Meme: Assistant:a,a,0
+memes\hi\Strict-Policeman\98,4,ly.Meme: Assistant:b,b,0
+memes\hi\Strict-Policeman\98,5,ly.Meme: Assistant:a,a,0
+memes\hi\Success-Germany\104,0, b.Meme: Assistant:b,b,0
+memes\hi\Success-Germany\104,1, b.Meme: Assistant:a,a,0
+memes\hi\Success-Germany\104,2,on.Meme: Assistant:a,a,1
+memes\hi\Success-Germany\104,3,on.Meme: Assistant:a,a,0
+memes\hi\Success-Germany\104,4,ly.Meme: Assistant:b,b,0
+memes\hi\Success-Germany\104,5,ly.Meme: Assistant:a,a,0
+memes\hi\Success-Germany\127,0, b.Meme: Assistant:a,a,1
+memes\hi\Success-Germany\127,1, b.Meme: Assistant:b,b,1
+memes\hi\Success-Germany\127,2,on.Meme: Assistant:a,a,1
+memes\hi\Success-Germany\127,3,on.Meme: Assistant:b,b,1
+memes\hi\Success-Germany\127,4,ly.Meme: Assistant:a,a,1
+memes\hi\Success-Germany\127,5,ly.Meme: Assistant:a,a,0
+memes\hi\Success-Germany\163,0, b.Meme: Assistant:a,a,1
+memes\hi\Success-Germany\163,1, b.Meme: Assistant:b,b,1
+memes\hi\Success-Germany\163,2,on.Meme: Assistant:a,a,1
+memes\hi\Success-Germany\163,3,on.Meme: Assistant:b,b,1
+memes\hi\Success-Germany\163,4,ly.Meme: Assistant:b,b,0
+memes\hi\Success-Germany\163,5,ly.Meme: Assistant:a,a,0
+memes\hi\Success-Germany\95,0,ssistant:b: Non-hate,b,0
+memes\hi\Success-Germany\95,1, b.Meme: Assistant:a,a,0
+memes\hi\Success-Germany\95,2,on.Meme: Assistant:b,b,0
+memes\hi\Success-Germany\95,3,on.Meme: Assistant:a,a,0
+memes\hi\Success-Germany\95,4,ly.Meme: Assistant:b,b,0
+memes\hi\Success-Germany\95,5,ly.Meme: Assistant:a,a,0
+memes\hi\Successful-Mexican\18,0, b.Meme: Assistant:b,b,0
+memes\hi\Successful-Mexican\18,1, b.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\18,2,on.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\18,3,on.Meme: Assistant:a,a,0
+memes\hi\Successful-Mexican\18,4,ly.Meme: Assistant:b,b,0
+memes\hi\Successful-Mexican\18,5,ly.Meme: Assistant:a,a,0
+memes\hi\Successful-Mexican\19,0, b.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\19,1, b.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\19,2,on.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\19,3,on.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\19,4,ly.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\19,5,ly.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\20,0, b.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\20,1, b.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\20,2,on.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\20,3,on.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\20,4,ly.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\20,5,ly.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\21,0, b.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\21,1, b.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\21,2,on.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\21,3,on.Meme: Assistant:b,b,1
+memes\hi\Successful-Mexican\21,4,ly.Meme: Assistant:a,a,1
+memes\hi\Successful-Mexican\21,5,ly.Meme: Assistant:b,b,1
+memes\hi\Transvestite-Trevor\114,0,ssistant:b: Non-hate,b,0
+memes\hi\Transvestite-Trevor\114,1, b.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\114,2,on.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\114,3,on.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\114,4,ly.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\114,5,ly.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\121,0,ssistant:b: Non-hate,b,0
+memes\hi\Transvestite-Trevor\121,1,ssistant:a: Non-hate,a,0
+memes\hi\Transvestite-Trevor\121,2,on.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\121,3,on.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\121,4,ly.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\121,5,ly.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\161,0,ssistant:b: Non-hate,b,0
+memes\hi\Transvestite-Trevor\161,1,ssistant:a: Non-hate,a,0
+memes\hi\Transvestite-Trevor\161,2,on.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\161,3,on.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\161,4,ly.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\161,5,ly.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\207,0,ssistant:b: Non-hate,b,0
+memes\hi\Transvestite-Trevor\207,1, b.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\207,2,on.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\207,3,on.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\207,4,ly.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\207,5,ly.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\273,0,ssistant:b: Non-hate,b,0
+memes\hi\Transvestite-Trevor\273,1,ssistant:a: Non-hate,a,0
+memes\hi\Transvestite-Trevor\273,2,on.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\273,3,on.Meme: Assistant:a,a,0
+memes\hi\Transvestite-Trevor\273,4,ly.Meme: Assistant:b,b,0
+memes\hi\Transvestite-Trevor\273,5,ly.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\115,0,ssistant:b: Non-hate,b,0
+memes\hi\Troll-Asian\115,1, b.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\115,2,on.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\115,3,on.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\115,4,ly.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\115,5,ly.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\116,0,ssistant:b: Non-hate,b,0
+memes\hi\Troll-Asian\116,1,ssistant:a: Non-hate,a,0
+memes\hi\Troll-Asian\116,2,on.Meme: Assistant:a,a,1
+memes\hi\Troll-Asian\116,3,on.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\116,4,ly.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\116,5,ly.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\144,0, b.Meme: Assistant:a,a,1
+memes\hi\Troll-Asian\144,1, b.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\144,2,on.Meme: Assistant:a,a,1
+memes\hi\Troll-Asian\144,3,on.Meme: Assistant:b,b,1
+memes\hi\Troll-Asian\144,4,ly.Meme: Assistant:a,a,1
+memes\hi\Troll-Asian\144,5,ly.Meme: Assistant:b,b,1
+memes\hi\Troll-Asian\61,0,ssistant:b: Non-hate,b,0
+memes\hi\Troll-Asian\61,1,ssistant:a: Non-hate,a,0
+memes\hi\Troll-Asian\61,2,on.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\61,3,on.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\61,4,ly.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\61,5,ly.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\66,0,ssistant:b: Non-hate,b,0
+memes\hi\Troll-Asian\66,1, b.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\66,2,on.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\66,3,on.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\66,4,ly.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\66,5,ly.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\69,0,ssistant:b: Non-hate,b,0
+memes\hi\Troll-Asian\69,1,ssistant:a: Non-hate,a,0
+memes\hi\Troll-Asian\69,2,on.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\69,3,on.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\69,4,ly.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\69,5,ly.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\90,0, b.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\90,1, b.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\90,2,on.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\90,3,on.Meme: Assistant:a,a,0
+memes\hi\Troll-Asian\90,4,ly.Meme: Assistant:b,b,0
+memes\hi\Troll-Asian\90,5,ly.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\145,0, b.Meme: Assistant:a,a,1
+memes\hi\Typical-Germany-Lover\145,1, b.Meme: Assistant:b,b,1
+memes\hi\Typical-Germany-Lover\145,2,on.Meme: Assistant:a,a,1
+memes\hi\Typical-Germany-Lover\145,3,on.Meme: Assistant:b,b,1
+memes\hi\Typical-Germany-Lover\145,4,ly.Meme: Assistant:a,a,1
+memes\hi\Typical-Germany-Lover\145,5,ly.Meme: Assistant:b,b,1
+memes\hi\Typical-Germany-Lover\184,0,ssistant:b: Non-hate,b,0
+memes\hi\Typical-Germany-Lover\184,1,ssistant:a: Non-hate,a,0
+memes\hi\Typical-Germany-Lover\184,2,on.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\184,3,on.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\184,4,ly.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\184,5,ly.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\212,0,ssistant:b: Non-hate,b,0
+memes\hi\Typical-Germany-Lover\212,1,ssistant:a: Non-hate,a,0
+memes\hi\Typical-Germany-Lover\212,2,on.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\212,3,on.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\212,4,ly.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\212,5,ly.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\213,0,ssistant:b: Non-hate,b,0
+memes\hi\Typical-Germany-Lover\213,1,ssistant:a: Non-hate,a,0
+memes\hi\Typical-Germany-Lover\213,2,on.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\213,3,on.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\213,4,ly.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\213,5,ly.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\246,0,ssistant:b: Non-hate,b,0
+memes\hi\Typical-Germany-Lover\246,1,ssistant:a: Non-hate,a,0
+memes\hi\Typical-Germany-Lover\246,2,on.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\246,3,on.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\246,4,ly.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\246,5,ly.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\264,0,ssistant:b: Non-hate,b,0
+memes\hi\Typical-Germany-Lover\264,1,ssistant:a: Non-hate,a,0
+memes\hi\Typical-Germany-Lover\264,2,on.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\264,3,on.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\264,4,ly.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\264,5,ly.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\62,0,ssistant:b: Non-hate,b,0
+memes\hi\Typical-Germany-Lover\62,1,ssistant:a: Non-hate,a,0
+memes\hi\Typical-Germany-Lover\62,2,on.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\62,3,on.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\62,4,ly.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\62,5,ly.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\73,0,ssistant:b: Non-hate,b,0
+memes\hi\Typical-Germany-Lover\73,1,ssistant:a: Non-hate,a,0
+memes\hi\Typical-Germany-Lover\73,2,on.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\73,3,on.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\73,4,ly.Meme: Assistant:b,b,0
+memes\hi\Typical-Germany-Lover\73,5,ly.Meme: Assistant:a,a,0
+memes\hi\Typical-Germany-Lover\91,0,ssistant:b: Non-hate,b,0
+memes\hi\Typical-Germany-Lover\91,1, b.Meme: Assistant:b,b,1
+memes\hi\Typical-Germany-Lover\91,2,on.Meme: Assistant:a,a,1
+memes\hi\Typical-Germany-Lover\91,3,on.Meme: Assistant:b,b,1
+memes\hi\Typical-Germany-Lover\91,4,ly.Meme: Assistant:a,a,1
+memes\hi\Typical-Germany-Lover\91,5,ly.Meme: Assistant:b,b,1
+memes\hi\White-Power-Problems\119,0, b.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\119,1, b.Meme: Assistant:b,b,1
+memes\hi\White-Power-Problems\119,2,on.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\119,3,on.Meme: Assistant:b,b,1
+memes\hi\White-Power-Problems\119,4,ly.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\119,5,ly.Meme: Assistant:b,b,1
+memes\hi\White-Power-Problems\141,0, b.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\141,1, b.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\141,2,on.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\141,3,on.Meme: Assistant:b,b,1
+memes\hi\White-Power-Problems\141,4,ly.Meme: Assistant:b,b,0
+memes\hi\White-Power-Problems\141,5,ly.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\157,0, b.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\157,1, b.Meme: Assistant:b,b,1
+memes\hi\White-Power-Problems\157,2,on.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\157,3,on.Meme: Assistant:b,b,1
+memes\hi\White-Power-Problems\157,4,ly.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\157,5,ly.Meme: Assistant:b,b,1
+memes\hi\White-Power-Problems\209,0,ssistant:b: Non-hate,b,0
+memes\hi\White-Power-Problems\209,1, b.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\209,2,on.Meme: Assistant:b,b,0
+memes\hi\White-Power-Problems\209,3,on.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\209,4,ly.Meme: Assistant:b,b,0
+memes\hi\White-Power-Problems\209,5,ly.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\215,0, b.Meme: Assistant:b,b,0
+memes\hi\White-Power-Problems\215,1, b.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\215,2,on.Meme: Assistant:b,b,0
+memes\hi\White-Power-Problems\215,3,on.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\215,4,ly.Meme: Assistant:b,b,0
+memes\hi\White-Power-Problems\215,5,ly.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\256,0, b.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\256,1, b.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\256,2,on.Meme: Assistant:a,a,1
+memes\hi\White-Power-Problems\256,3,on.Meme: Assistant:a,a,0
+memes\hi\White-Power-Problems\256,4,ly.Meme: Assistant:b,b,0
+memes\hi\White-Power-Problems\256,5,ly.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\122,0, b.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\122,1, b.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\122,2,on.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\122,3,on.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\122,4,ly.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\122,5,ly.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\126,0, b.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\126,1, b.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\126,2,on.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\126,3,on.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\126,4,ly.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\126,5,ly.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\156,0,ssistant:b: Non-hate,b,0
+memes\hi\Y-U-So-Arab\156,1,ssistant:a: Non-hate,a,0
+memes\hi\Y-U-So-Arab\156,2,on.Meme: Assistant:a,a,1
+memes\hi\Y-U-So-Arab\156,3,on.Meme: Assistant:b,b,1
+memes\hi\Y-U-So-Arab\156,4,ly.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\156,5,ly.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\196,0,ssistant:b: Non-hate,b,0
+memes\hi\Y-U-So-Arab\196,1, b.Meme: Assistant:b,b,1
+memes\hi\Y-U-So-Arab\196,2,on.Meme: Assistant:a,a,1
+memes\hi\Y-U-So-Arab\196,3,on.Meme: Assistant:b,b,1
+memes\hi\Y-U-So-Arab\196,4,ly.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\196,5,ly.Meme: Assistant:b,b,1
+memes\hi\Y-U-So-Arab\214,0,ssistant:b: Non-hate,b,0
+memes\hi\Y-U-So-Arab\214,1,ssistant:a: Non-hate,a,0
+memes\hi\Y-U-So-Arab\214,2,on.Meme: Assistant:a,a,1
+memes\hi\Y-U-So-Arab\214,3,on.Meme: Assistant:b,b,1
+memes\hi\Y-U-So-Arab\214,4,ly.Meme: Assistant:b,b,0
+memes\hi\Y-U-So-Arab\214,5,ly.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\231,0, b.Meme: Assistant:a,a,1
+memes\hi\Y-U-So-Arab\231,1, b.Meme: Assistant:b,b,1
+memes\hi\Y-U-So-Arab\231,2,on.Meme: Assistant:a,a,1
+memes\hi\Y-U-So-Arab\231,3,on.Meme: Assistant:b,b,1
+memes\hi\Y-U-So-Arab\231,4,ly.Meme: Assistant:a,a,1
+memes\hi\Y-U-So-Arab\231,5,ly.Meme: Assistant:b,b,1
+memes\hi\Y-U-So-Arab\82,0,ssistant:b: Non-hate,b,0
+memes\hi\Y-U-So-Arab\82,1,ssistant:a: Non-hate,a,0
+memes\hi\Y-U-So-Arab\82,2,on.Meme: Assistant:a,a,1
+memes\hi\Y-U-So-Arab\82,3,on.Meme: Assistant:a,a,0
+memes\hi\Y-U-So-Arab\82,4,ssistant:b: Non-hate,b,0
+memes\hi\Y-U-So-Arab\82,5,ly.Meme: Assistant:a,a,0
