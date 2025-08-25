@@ -31,7 +31,7 @@ data\
   memes\
   raw_annotations.csv                # human annotations; many annotators per meme
 
-6-prompt-experiment\
+vlm\6-prompt-experiment\
   inference\
     gpt_4o.py                        # inference entrypoint
   results\
@@ -60,26 +60,26 @@ Run GPT‑4o caption inference with the `--language` switch:
 
 ### India (Hindi)
 ```bash
-python 6-prompt-experiment\inference\gpt_4o.py --caption --language hi
+python vlm\6-prompt-experiment\inference\gpt_4o.py --caption --language hi
 ```
 
 ### China (Chinese)
 ```bash
-python 6-prompt-experiment\inference\gpt_4o.py --caption --language zh
+python vlm\6-prompt-experiment\inference\gpt_4o.py --caption --language zh
 ```
 
-This should produce CSVs under `6-prompt-experiment\results\...` (e.g., `responses_<lang>_original.csv`).
+This should produce CSVs under `vlm\6-prompt-experiment\results\...` (e.g., `responses_<lang>_original.csv`).
 
 ---
 
 ## 2) Evaluation Path A — `eval.py` (per‑country prompt columns)
 
-This script should create `6-prompt-experiment\results\` (e.g., `processed_responses_<lang>.csv`). it will convert the prediction from a and b choices to 0 and 1 so that we can run `evaluation_resutls.py` to get the Accuracy and Precision and Recall
+This script should create `vlm\6-prompt-experiment\results\` (e.g., `processed_responses_<lang>.csv`). it will convert the prediction from a and b choices to 0 and 1 so that we can run `evaluation_resutls.py` to get the Accuracy and Precision and Recall
 
 ### Example: India (Hindi)
 
 ```bash
-python 6-prompt-experiment\eval\eval.py --language hi --input_file 6-prompt-experiment\results\gpt_4o_caption_india_original\responses_hi_original.csv
+python vlm\6-prompt-experiment\eval\eval.py --language hi --input_file vlm\6-prompt-experiment\results\gpt_4o_caption_india_original\responses_hi_original.csv
 ```
 
 
@@ -95,7 +95,7 @@ This script:
 
 ### India (Hindi) — Original prompts
 ```bash
-python 6-prompt-experiment\eval\evaluation_resutls.py --lang hi --pred 6-prompt-experiment\results\gpt_4o_caption_india_original\processed_responses_hi.csv
+python vlm\6-prompt-experiment\eval\evaluation_resutls.py --lang hi --pred vlm\6-prompt-experiment\results\gpt_4o_caption_india_original\processed_responses_hi.csv
 ```
 **Observed output**
 ```
@@ -117,7 +117,7 @@ true 1 |     100       76
 
 ### India (Hindi) — “Ours” prompts
 ```bash
-python 6-prompt-experiment\eval\evaluation_resutls.py --lang hi --pred 6-prompt-experiment\results\gpt_4o_caption_india_ours\processed_responses_hi.csv
+python vlm\6-prompt-experiment\eval\evaluation_resutls.py --lang hi --pred vlm\6-prompt-experiment\results\gpt_4o_caption_india_ours\processed_responses_hi.csv
 ```
 **Observed output**
 ```
@@ -141,8 +141,8 @@ true 1 |      81       95
 
 Replace `hi` with `zh` and point `--pred` to the corresponding processed file:
 ```bash
-python 6-prompt-experiment\eval\evaluation_resutls.py --lang zh --pred 6-prompt-experiment\results\gpt_4o_caption_china_original\processed_responses_zh.csv
+python vlm\6-prompt-experiment\eval\evaluation_resutls.py --lang zh --pred vlm\6-prompt-experiment\results\gpt_4o_caption_china_original\processed_responses_zh.csv
 # ...or for your “ours” prompts:
-python 6-prompt-experiment\eval\evaluation_resutls.py --lang zh --pred 6-prompt-experiment\results\gpt_4o_caption_china_ours\processed_responses_zh.csv
+python vlm\6-prompt-experiment\eval\evaluation_resutls.py --lang zh --pred vlm\6-prompt-experiment\results\gpt_4o_caption_china_ours\processed_responses_zh.csv
 ```
 
