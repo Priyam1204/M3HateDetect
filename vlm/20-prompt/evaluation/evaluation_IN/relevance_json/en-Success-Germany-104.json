@@ -1,0 +1,42 @@
+{
+  "ImageID": "en-Success-Germany-104",
+  "CategoryRelevance": {
+    "CoreCulturalUnderstanding": 18.0,
+    "SensitivityModeration": 28.0,
+    "RegionalLinguisticAdaptation": 12.0,
+    "HumorViralDynamics": 26.0,
+    "AdvancedInsightEmpathy": 16.0
+  },
+  "SubpromptRelevance": {
+    "CoreCulturalUnderstanding": {
+      "general": 8.5,
+      "india": 4.5,
+      "china": 2.5,
+      "regionalInterpretation": 1.5,
+      "humorType": 1.0
+    },
+    "SensitivityModeration": {
+      "tabooDetection": 8.0,
+      "censorshipPrediction": 9.0,
+      "moderationThreshold": 6.0,
+      "communitySentiment": 5.0
+    },
+    "RegionalLinguisticAdaptation": {
+      "iconography": 5.0,
+      "dialectRendering": 1.0,
+      "formatAppropriateness": 3.0,
+      "localizationSuggestion": 3.0
+    },
+    "HumorViralDynamics": {
+      "politicalAlignment": 6.5,
+      "formatFit": 6.0,
+      "emotionalImpact": 7.5,
+      "crossCulturalRisk": 6.0
+    },
+    "AdvancedInsightEmpathy": {
+      "audienceAppropriateness": 6.0,
+      "biasMitigation": 5.0,
+      "politicalAlignmentAdvanced": 5.0
+    }
+  }
+}

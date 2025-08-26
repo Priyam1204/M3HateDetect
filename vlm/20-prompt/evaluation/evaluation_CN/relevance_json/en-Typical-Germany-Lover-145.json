@@ -1,0 +1,42 @@
+{
+  "ImageID": "en-Typical-Germany-Lover-145",
+  "CategoryRelevance": {
+    "CoreCulturalUnderstanding": 20.0,
+    "SensitivityModeration": 30.0,
+    "RegionalLinguisticAdaptation": 10.0,
+    "HumorViralDynamics": 25.0,
+    "AdvancedInsightEmpathy": 15.0
+  },
+  "SubpromptRelevance": {
+    "CoreCulturalUnderstanding": {
+      "general": 10.0,
+      "india": 5.0,
+      "china": 3.0,
+      "regionalInterpretation": 1.0,
+      "humorType": 1.0
+    },
+    "SensitivityModeration": {
+      "tabooDetection": 10.0,
+      "censorshipPrediction": 10.0,
+      "moderationThreshold": 5.0,
+      "communitySentiment": 5.0
+    },
+    "RegionalLinguisticAdaptation": {
+      "iconography": 0.0,
+      "dialectRendering": 0.0,
+      "formatAppropriateness": 0.0,
+      "localizationSuggestion": 0.0
+    },
+    "HumorViralDynamics": {
+      "politicalAlignment": 10.0,
+      "formatFit": 0.0,
+      "emotionalImpact": 0.0,
+      "crossCulturalRisk": 0.0
+    },
+    "AdvancedInsightEmpathy": {
+      "audienceAppropriateness": 0.0,
+      "biasMitigation": 3.0,
+      "politicalAlignmentAdvanced": 0.0
+    }
+  }
+}

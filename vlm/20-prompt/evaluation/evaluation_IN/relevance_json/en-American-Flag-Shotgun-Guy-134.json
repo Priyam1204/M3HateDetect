@@ -1,0 +1,42 @@
+{
+  "ImageID": "en-American-Flag-Shotgun-Guy-134",
+  "CategoryRelevance": {
+    "CoreCulturalUnderstanding": 20.0,
+    "SensitivityModeration": 35.0,
+    "RegionalLinguisticAdaptation": 15.0,
+    "HumorViralDynamics": 25.0,
+    "AdvancedInsightEmpathy": 15.0
+  },
+  "SubpromptRelevance": {
+    "CoreCulturalUnderstanding": {
+      "general": 10.0,
+      "india": 8.0,
+      "china": 7.0,
+      "regionalInterpretation": 4.0,
+      "humorType": 3.0
+    },
+    "SensitivityModeration": {
+      "tabooDetection": 10.0,
+      "censorshipPrediction": 10.0,
+      "moderationThreshold": 8.0,
+      "communitySentiment": 7.0
+    },
+    "RegionalLinguisticAdaptation": {
+      "iconography": 6.0,
+      "dialectRendering": 3.0,
+      "formatAppropriateness": 4.0,
+      "localizationSuggestion": 2.0
+    },
+    "HumorViralDynamics": {
+      "politicalAlignment": 6.0,
+      "formatFit": 5.0,
+      "emotionalImpact": 7.0,
+      "crossCulturalRisk": 7.0
+    },
+    "AdvancedInsightEmpathy": {
+      "audienceAppropriateness": 5.0,
+      "biasMitigation": 6.0,
+      "politicalAlignmentAdvanced": 4.0
+    }
+  }
+}

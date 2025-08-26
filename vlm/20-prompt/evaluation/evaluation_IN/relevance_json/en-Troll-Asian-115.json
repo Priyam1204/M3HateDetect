@@ -1,0 +1,42 @@
+{
+  "ImageID": "en-Troll-Asian-115",
+  "CategoryRelevance": {
+    "CoreCulturalUnderstanding": 20.0,
+    "SensitivityModeration": 30.0,
+    "RegionalLinguisticAdaptation": 10.0,
+    "HumorViralDynamics": 25.0,
+    "AdvancedInsightEmpathy": 15.0
+  },
+  "SubpromptRelevance": {
+    "CoreCulturalUnderstanding": {
+      "general": 10.0,
+      "india": 5.0,
+      "china": 3.0,
+      "regionalInterpretation": 1.0,
+      "humorType": 1.0
+    },
+    "SensitivityModeration": {
+      "tabooDetection": 10.0,
+      "censorshipPrediction": 10.0,
+      "moderationThreshold": 5.0,
+      "communitySentiment": 5.0
+    },
+    "RegionalLinguisticAdaptation": {
+      "iconography": 4.0,
+      "dialectRendering": 3.0,
+      "formatAppropriateness": 2.0,
+      "localizationSuggestion": 1.0
+    },
+    "HumorViralDynamics": {
+      "politicalAlignment": 10.0,
+      "formatFit": 5.0,
+      "emotionalImpact": 5.0,
+      "crossCulturalRisk": 5.0
+    },
+    "AdvancedInsightEmpathy": {
+      "audienceAppropriateness": 10.0,
+      "biasMitigation": 3.0,
+      "politicalAlignmentAdvanced": 2.0
+    }
+  }
+}

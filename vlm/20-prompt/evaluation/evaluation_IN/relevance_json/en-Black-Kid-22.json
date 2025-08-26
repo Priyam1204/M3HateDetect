@@ -1,0 +1,42 @@
+{
+  "ImageID": "en-Black-Kid-22",
+  "CategoryRelevance": {
+    "CoreCulturalUnderstanding": 25.0,
+    "SensitivityModeration": 30.0,
+    "RegionalLinguisticAdaptation": 20.0,
+    "HumorViralDynamics": 15.0,
+    "AdvancedInsightEmpathy": 10.0
+  },
+  "SubpromptRelevance": {
+    "CoreCulturalUnderstanding": {
+      "general": 8.0,
+      "india": 7.0,
+      "china": 5.0,
+      "regionalInterpretation": 3.0,
+      "humorType": 2.0
+    },
+    "SensitivityModeration": {
+      "tabooDetection": 8.0,
+      "censorshipPrediction": 9.0,
+      "moderationThreshold": 7.0,
+      "communitySentiment": 6.0
+    },
+    "RegionalLinguisticAdaptation": {
+      "iconography": 6.0,
+      "dialectRendering": 5.0,
+      "formatAppropriateness": 4.0,
+      "localizationSuggestion": 5.0
+    },
+    "HumorViralDynamics": {
+      "politicalAlignment": 4.0,
+      "formatFit": 4.0,
+      "emotionalImpact": 3.0,
+      "crossCulturalRisk": 4.0
+    },
+    "AdvancedInsightEmpathy": {
+      "audienceAppropriateness": 4.0,
+      "biasMitigation": 3.0,
+      "politicalAlignmentAdvanced": 3.0
+    }
+  }
+}
