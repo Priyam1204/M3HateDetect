@@ -1,15 +1,19 @@
+<div align="center">
+  <img src="https://www.strichpunkt-design.de/storage/app/media/work/technische-universitaet-nuernberg-corporate-design-corporate-identity/technische-universitaet-nuernberg-corporate-design-corporate-identity-6-1920x1080__automuted--poster.jpg" alt="University of Technology Nuremberg" width="400"/>
+</div>
+
 # M3HateDetect: Multimodal Multilingual Hate Speech Detection
 
-An extension of the Multi3Hate framework developed at University of Technology Nuremberg (UTN) for enhanced multimodal hate speech detection in multilingual memes using state-of-the-art Vision-Language Models (VLMs).
+An extension of the [Multi3Hate framework](https://github.com/MinhDucBui/Multi3Hate/tree/main) developed as a final project for Deep Learning for Digital Humanities (SS25) at University of Technology Nuremberg (UTN), focusing on enhanced multimodal hate speech detection in multilingual memes using state-of-the-art Vision-Language Models (VLMs).
 
 ## 🌟 Features
 
-- **Extended Multi3Hate Framework**: Built upon and enhanced the original Multi3Hate methodology
+- **Extended Multi3Hate Framework**: Built upon and enhanced the original Multi3Hate methodology by adding cultural cues to zero-shot prompting strategies
 - **Advanced VLM Integration**: Incorporates latest Vision-Language Models including Claude 3.7 and GPT-4o
-- **Cultural Context Awareness**: Enhanced prompting strategies with country-specific cultural sensitivities
-- **Multilingual Support**: Focuses on Hindi meme analysis with cultural context understanding
-- **Comprehensive Evaluation**: Detailed performance metrics and comparative analysis tools
-- **Research-Oriented**: Designed for academic research and experimentation at UTN
+- **Cultural Context Awareness**: Enhanced prompting strategies with country-specific cultural sensitivities (IN/CN)
+- **Multi-Prompt Strategy**: Comprehensive evaluation using 1, 6, and 20 prompt configurations
+- **Multilingual Support**: Focuses on Hindi and Chinese meme analysis with cultural context understanding
+- **Academic Project**: Final project for Deep Learning for Digital Humanities course at UTN
 
 ## 📁 Project Structure
 
@@ -22,11 +26,16 @@ M3HateDetect/
 ├── vlm/                           # Vision-Language Model implementations
 │   ├── 1-prompt/                  # Single prompt experiments
 │   │   ├── inference/             # Model inference scripts
-│   │   │   ├── claude.37.py      # Claude 3.7 inference
-│   │   │   └── local_paths.py    # Path configurations
-│   │   └── evaluation/            # Model evaluation scripts
-│   │       ├── eval_claude_hindi.py # Claude evaluation for Hindi
-│   └── results/                   # Model prediction outputs
+│   │   ├── evaluation/            # Model evaluation scripts
+│   │   └── results/               # Model prediction outputs
+│   ├── 6-prompt-experiment/       # 6-prompt experiments
+│   │   ├── inference/             # Model inference scripts
+│   │   ├── eval/                  # Evaluation scripts
+│   │   └── results/               # Model prediction outputs
+│   ├── 20-prompt/                 # 20-prompt experiments
+│   │   ├── inference/             # Model inference scripts
+│   │   ├── evaluation/            # Model evaluation scripts
+│   │   └── results/               # Model prediction outputs
 ├── requirements.txt               # Python dependencies
 └── README.md                     # This file
 ```
@@ -35,8 +44,7 @@ M3HateDetect/
 
 ### Prerequisites
 
-- Python 3.8+
-- CUDA-compatible GPU (recommended for local models)
+- Python 3.10+
 - API keys for closed-source models (Claude, GPT-4V, Gemini)
 
 ### Installation
@@ -57,49 +65,54 @@ pip install -r requirements.txt
 
 ### Running Inference
 
-#### Single Prompt
+####  1-Prompt
 ```bash
 # Basic inference (all images)
-python vlm/1-prompt/inference/claude.37.py
+python vlm/1-prompt/inference/llm_inference.py 
+```
+(This file works with both Claude and GPT-4o, you just need to change the model name)
 
-# Limited images for testing
-python vlm/1-prompt/inference/claude.37.py --max_images 10
+#### 6-Prompt Strategy
+```bash
+# India (Hindi)
+python vlm/6-prompt-experiment/inference/gpt_4o.py --caption --language hi
 
-# Text-only mode
-python vlm/1-prompt/inference/claude.37.py --unimodal
-
-# Custom output directory
-python vlm/1-prompt/inference/claude.37.py --model_path my_experiment
+# China (Chinese) 
+python vlm/6-prompt-experiment/inference/gpt_4o.py --caption --language zh
 ```
 
+#### 20-Prompt Strategy
+```bash
+# Run inference
+python vlm/20-prompt/inference/classify_memes_hate.py
+```
 
 ### Model Evaluation
 
-Evaluate model predictions using the evaluation scripts:
-
+#### 1-Prompt Evaluation
 ```bash
-# Evaluate Claude results (single prompt)
-python vlm/1-prompt/evaluation/eval_claude_hindi.py --model_predictions vlm/results/claude_single_prompt
-
-# General evaluation for other models
-python vlm/1-prompt/evaluation/eval.py --model_predictions vlm/results/your_model_folder
+# Evaluate Claude results
+python vlm/1-prompt/evaluation/eval_claude_hindi.py --model_predictions path-to-folder
 ```
 
-### Example Workflow
-
+#### 6-Prompt Evaluation
 ```bash
-# 1. Run Claude inference with limited images for testing
-python vlm/1-prompt/inference/claude.37.py --max_images 50 --model_path test_run
+# Step 1: Process responses (convert a/b to 0/1)
+python vlm/6-prompt-experiment/eval/eval.py --language hi --input_file vlm/6-prompt-experiment/results/gpt_4o_caption_india_original/responses_hi_original.csv
 
-# 2. Evaluate the results
-python vlm/1-prompt/evaluation/eval_claude_hindi.py --model_predictions vlm/results/test_run
-
-# 3. Run full inference
-python vlm/1-prompt/inference/claude.37.py --model_path full_experiment
-
-# 4. Final evaluation
-python vlm/1-prompt/evaluation/eval_claude_hindi.py --model_predictions vlm/results/full_experiment
+# Step 2: Calculate final metrics (Accuracy, Precision, Recall)
+python vlm/6-prompt-experiment/eval/evaluation_resutls.py --lang hi --pred vlm/6-prompt-experiment/results/gpt_4o_caption_india_original/processed_responses_hi.csv
 ```
+
+#### 20-Prompt Evaluation
+```bash
+# Evaluate hate-speech classification
+python vlm/20-prompt/evaluation/evaluation_IN/evaluate_hate_accuracy.py
+
+python vlm/20-prompt/evaluation/evaluation_CN/evaluate_hate_accuracy.py
+
+```
+
 
 ## 📊 Evaluation Metrics
 
@@ -107,61 +120,28 @@ The evaluation scripts provide comprehensive analysis including:
 
 - **Accuracy**: Overall classification accuracy
 - **F1-Score**: Balanced performance measure
-- **Confusion Matrix**: Detailed classification breakdown
-- **Invalid Response Rate**: Percentage of unparseable responses
-- **Statistical Significance**: Comparative analysis between models
+- **Confusion Matrix**: Detailed classification breakdown with recall and precision
 
 ## 🎯 Model Performance
 
-| Model | Accuracy | F1-Score | Invalid Rate |
-|-------|----------|----------|--------------|
-| Claude 3.7 | 85.2% | 0.834 | 2.1% |
-| GPT-4V | 82.7% | 0.819 | 3.5% |
-| Gemini Pro | 79.4% | 0.781 | 4.2% |
-| LLaVA-OneVision | 76.8% | 0.752 | 1.8% |
+| Culture | Model | # Prompts | Accuracy | Precision | Recall |
+|---------|--------|-----------|----------|-----------|---------|
+| IN | Claude 3.7 | 1 | 57.0% | 60.2% | 50.0% |
+| IN | GPT-4o | 6 | 68.7% | 87.96% | 53.98% |
+| IN | GPT-4o | 20 | 74.6% | 68.0% | 75.0% |
+| IN | GPT-4o | 1 | 62.54% | 73.9% | 58.3% |
+| CN | GPT-4o | 6 | 67.0% | 92.31% | 47.73% |
+| CN | GPT-4o | 20 | 50.7% | 58.0% | 47.0% |
 
-*Results on Hindi meme dataset using single prompt strategy*
+*Results on Hindi (IN) and Chinese (CN) meme datasets using different prompt strategies*
 
-## 🔧 Configuration
+### Key Findings:
+- **Culturally contextualized prompting improves alignment** with IN and CN annotations over baseline
+- **Persona framing is the most impactful prompt component** for enhancing model performance
+- **Bias reduction is partial** as we tested with larger dataset, but the models still tend to align with US norms
 
-### API Requirements
 
-- **Claude**: API key and base URL configuration
-- **GPT-4V**: OpenAI API key with GPT-4 access
-- **Gemini**: Google AI Studio API key
-
-### Model-Specific Notes
-
-- **InternVL2**: Requires `transformers==4.37.2`
-- **Local Models**: Require significant GPU memory (>16GB recommended)
-- **API Models**: Rate limits apply; adjust batch sizes accordingly
-
-## 📝 Citation
-
-If you use this code or dataset in your research, please cite:
-
-```bibtex
-@article{m3hatedetect2024,
-  title={M3HateDetect: Multimodal Multilingual Hate Speech Detection},
-  author={Your Name},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-<!-- 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
+``
 
 ## 🙏 Acknowledgments
 
@@ -173,8 +153,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or issues, please:
 - Open an issue on GitHub
-- Contact: [priyammishra1204@gmail.com] or [priyam.mishra@utn.de]
+- Contact: [priyammishra1204@gmail.com] or [priyam.mishra@utn.de] 
 
 ---
 
-**Keywords**: Hate Speech Detection, Multimodal AI, Vision-Language Models, Multilingual NLP, Meme Analysis, Claude, GPT-4V, Gemini
+**Keywords**: Hate Speech Detection, Multimodal AI, Vision-Language Models, Multilingual NLP, Meme Analysis, Claude, GPT-4V
