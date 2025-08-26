@@ -1,0 +1,301 @@
+Meme ID,prompt,response_truncated,answer,hate_prediction
+222,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+222,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+222,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+222,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+222,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+222,5,"t and a person wearing a hat against a blue background, I would classify this as:  b  The meme doesn",a,1
+37,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+37,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+37,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+37,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+37,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+37,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+38,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+38,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+38,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+38,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+38,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+38,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+58,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+58,1,"in text in Hindi that targets a specific religious group with pejorative language, the answer is:  a",a,1
+58,2," translates to ""Heartfelt congratulations for the New Year,"" I need to determine if this constitutes",a,1
+58,3,ains pejorative or discriminatory language targeting a person or group based on their identity.  The,a,1
+58,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+58,5,"ech in India.  The meme shows a person with an expression of extreme anger or shock, with Hindi text",a,1
+74,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+74,1,"peech in the Indian context.  The image shows a person with a beard who appears to be shouting, with",a,1
+74,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+74,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+74,4,ooks like Hindi/Devanagari script along with a person wearing a head covering against a green radial,a,1
+74,5,"i/Devanagari script against a green radial background, I would need to assess whether it contains pe",a,1
+78,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+78,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+78,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+78,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+78,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+78,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+134,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+134,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+134,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+134,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+134,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+134,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+137,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+137,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+137,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+137,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+137,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+137,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+138,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+138,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+138,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+138,3,"pears to be using stereotypical imagery in a mocking context, I would classify this as:  a  The meme",a,1
+138,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+138,5,"ution or victimhood sentiment, and considering the definition of hate speech provided, my assessment",a,1
+142,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+142,1," holding a Bible with Hindi text overlaid on a green and beige background, I would classify this as:",a,1
+142,2,"n geometric background, and considering the definition of hate speech provided, my assessment is:  a",a,1
+142,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+142,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+142,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+217,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+217,1,"s to something about complaining about the system but not helping to gain benefits, I need to assess",a,1
+217,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+217,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+217,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+217,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+257,0,"targeting specific groups based on race/color, and considering the definition of hate speech provide",based,-1
+257,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+257,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+257,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+257,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+257,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+261,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+261,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+261,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+261,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+261,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+261,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+10,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+10,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+10,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+10,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+10,4,"ed on the definition of hate speech provided and examining the content of the meme, my answer is:  b",b,0
+10,5,"y son!"" This appears to be targeting individuals based on religious or ethnic identity through stere",a,1
+11,0,"ari script against an orange background, I need to determine if it constitutes hate speech according",a,1
+11,1,"with text in Hindi that translates approximately to ""Quickly give me something!"" The meme appears to",a,1
+11,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+11,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+11,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+11,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+12,0,"entation, this appears to be a meme that expresses confusion or uncertainty rather than attacking or",a,1
+12,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+12,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+12,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+12,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+12,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+13,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+13,1,"wn, which appears to be a meme with Hindi text ""अब से 30 साल बाद?"" (meaning ""30 years from now?"") an",a,1
+13,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+13,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+13,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+13,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+8,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+8,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+8,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+8,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+8,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+8,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+9,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+9,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+9,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+9,3,"h appears to be a meme with Hindi text ""आना चाहते हैं साथ?"" (which translates to ""Want to come along",a,1
+9,4,"ound. Based on the definition of hate speech provided, which refers to communication that attacks or",a,1
+9,5,"me appears to use stereotypical imagery and text that targets a specific religious group, which woul",a,1
+180,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+180,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+180,2,e definition provided.  The image shows a person with a beard wearing glasses and formal attire with,a,1
+180,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+180,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+180,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+243,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+243,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+243,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+243,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+243,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+243,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+279,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+279,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+279,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+279,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+279,4,"g with Hindi text, I need to assess whether this constitutes hate speech according to the definition",a,1
+279,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+281,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+281,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+281,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+281,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+281,4,"aid on an image of a person gesturing expressively in front of some buildings, I would classify this",a,1
+281,5,"cular group and their intentions in a potentially inflammatory context, I would classify this as:  a",a,1
+287,0,ively in an outdoor setting. Based on the definition of hate speech provided and the content visible,a,1
+287,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+287,2,"ecting them to terrorism while showing a person in a confrontational pose, I would classify this as:",a,1
+287,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+287,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+287,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+289,0,"age of a child in a school uniform with a hat, and considering the definition of hate speech provide",a,1
+289,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+289,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+289,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+289,4,"someone's girlfriend knowing about their cycle and bringing a cooling kit for them, I would classify",a,1
+289,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+42,0," joke about school books, and considering the definition of hate speech provided, I would answer:  b",b,0
+42,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+42,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+42,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+42,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+42,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+46,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+46,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+46,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+46,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+46,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+46,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+187,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+187,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+187,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+187,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+187,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+187,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+199,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+199,1,"ated to sexual assault and gender identity in what seems to be a mocking manner, I would respond:  a",a,1
+199,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+199,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+199,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+199,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+226,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+226,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+226,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+226,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+226,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+226,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+230,0,ed to evaluate whether this constitutes hate speech according to the definition provided.  The Hindi,based,-1
+230,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+230,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+230,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+230,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+230,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+251,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+251,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+251,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+251,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+251,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+251,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+254,0,"throom habits and prescribing behavior based on gender, I would answer:  a  The meme contains gender",a,1
+254,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+254,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+254,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+254,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+254,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+49,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+49,1," given answer choices a and b. Assistant:Based on the image and text shown, I would respond with:  a",a,1
+49,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+49,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+49,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+49,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+59,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+59,1, image shows a person in traditional Middle Eastern attire with text in Hindi/Devanagari script. The,a,1
+59,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+59,3,"in Hindi that makes threatening statements along with the image, which could be considered discrimin",a,1
+59,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+59,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+60,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+60,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+60,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+60,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+60,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+60,5,and comparing different food choices in a way that could be interpreted as mocking religious customs,a,1
+64,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+64,1,this constitutes hate speech in the Indian context.  Without being able to fully translate the Hindi,a,1
+64,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+64,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+64,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+64,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+65,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+65,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+65,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+65,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+65,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+65,5,t appears to be presenting a joke or meme format. Based on the definition of hate speech provided an,a,1
+68,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+68,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+68,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+68,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+68,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+68,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+94,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+94,1,"ed after certain national imagery. Based on the definition of hate speech provided, which focuses on",a,1
+94,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+94,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+94,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+94,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+111,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+111,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+111,2,"ms about violence against a large number of people. Based on the definition of hate speech provided,",a,1
+111,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+111,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+111,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+135,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+135,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+135,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+135,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+135,4,"racter with a colorful radial background, and considering the definition of hate speech provided, my",a,1
+135,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+160,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+160,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+160,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+160,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+160,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+160,5,ppears to use stereotypical imagery and text that promotes discriminatory characterizations based on,a,1
+167,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+167,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+167,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+167,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+167,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+167,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+170,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+170,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+170,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+170,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+170,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+170,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+201,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+201,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+201,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+201,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+201,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+201,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+22,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+22,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+22,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+22,3," is:  a  The meme contains text in Hindi that makes a derogatory statement about Judaism, presenting",a,1
+22,4,"someone's appearance and making associations with negative stereotypes, I would classify this as:  a",a,1
+22,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+23,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+23,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+23,2,"ed and black triangles, and considering the definition of hate speech provided, my assessment is:  b",b,0
+23,3,"king a provocative statement, and considering the definition of hate speech provided, I would answer",a,1
+23,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+23,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+24,0,"acter wearing a head covering, and considering the definition of hate speech provided, my answer is:",:,-1
+24,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+24,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+24,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+24,4,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+24,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+25,0,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:a,a,1
+25,1,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+25,2,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+25,3,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
+25,4," Hindi text that translates to ""So you are telling me that I can play Xbox 6 days out of 7 days in a",a,1
+25,5,s hate or not in India with a single alphabet letter among given answer choices a and b. Assistant:b,b,0
